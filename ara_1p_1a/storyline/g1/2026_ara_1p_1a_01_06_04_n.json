@@ -1,0 +1,1784 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_06_04_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+  "questions": [
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «لَمْ تَخْدَعْهَا الْأَضْوَاءُ» وَ«فَظَلَّتْ كَمَا هِيَ سَلِيمَةً نَقِيَّةً» هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَفْصِيلٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَضَادٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "سَبَبٌ وَنَتِيجَةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَرَادُفٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «عَدَمِ انْخِدَاعِ الْمَرْأَةِ بِالْأَضْوَاءِ» وَ«بَقَائِهَا نَقِيَّةً» عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "سَبَبٌ وَنَتِيجَةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَضَادٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَرَادُفٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِجْمَالٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «قَسْوَةِ الظُّرُوفِ» وَ«زِيَادَةِ صَبْرِ الْمَرْأَةِ» عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَرَادُفٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "اسْتِثْنَاءٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَفْسِيرٌ لَفْظِيٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "سَبَبٌ وَنَتِيجَةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «طِيبَةِ الْأَرْضِ» وَ«عُذُوبَةِ السَّمَاءِ» وَ«صَبْرِ الصَّحْرَاءِ» عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "نَتِيجَةٌ بِلَا سَبَبٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "اسْتِدْرَاكٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَفْصِيلٌ لِصِفَاتٍ اكْتَسَبَتْهَا الْمَرْأَةُ مِنَ الْبِيئَةِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَضَادٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «الْيَدِ الْعُلْيَا» وَ«الْيَدِ السُّفْلَى» عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تِكْرَارٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مُقَابَلَةٌ تُبْرِزُ الْعَطَاءَ فِي مُقَابِلِ الْأَخْذِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَرَادُفٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِجْمَالٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «لَوَّحَتِ الشَّمْسُ وَجْهَهَا» وَ«بَقِيَتِ ابْتِسَامَتُهَا آسِرَةً» عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مُقَابَلَةٌ تُبْرِزُ الصُّمُودَ أَمَامَ الْمَشَقَّةِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَرَادُفٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَعْلِيلٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِجْمَالٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ «عَرَّقَتِ الْأَرْضُ مِنْهَا الْيَدَيْنِ» وَ«ظُهُورِ مَعَالِمِ الْكِفَاحِ» عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَضَادٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "اسْتِثْنَاءٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَرَادُفٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "سَبَبٌ وَنَتِيجَةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ الْبَسَاطَةِ وَالْعَظَمَةِ فِي النَّصِّ عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَرَادُفٌ تَامٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "لَا عَلَاقَةَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْبَسَاطَةُ لَا تَحْجُبُ الْعَظَمَةَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْبَسَاطَةُ تَنْفِي الْعَظَمَةَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ امْتِزَاجِ الْمَرْأَةِ بِالْوَادِي وَحَمْلِهَا طَابَعَهُ عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "اسْتِثْنَاءٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "سَبَبٌ وَنَتِيجَةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَضَادٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تِكْرَارٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعَلَاقَةُ بَيْنَ عَطَائِهَا وَعَدَمِ انْتِظَارِهَا الْجَزَاءَ عَلَاقَةُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَكَامُلٌ يُبْرِزُ الْإِخْلَاصَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَعَارُضٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَرَادُفٌ لَفْظِيٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَفْصِيلٌ مَكَانِيٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "يَرْبِطُ النَّصُّ بَيْنَ قَسْوَةِ الظُّرُوفِ وَازْدِيَادِ صَبْرِ الْمَرْأَةِ الْمِصْرِيَّةِ وَكِفَاحِهَا.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ عَدَمِ انْخِدَاعِ الْمَرْأَةِ بِالْأَضْوَاءِ وَبَقَائِهَا نَقِيَّةً هِيَ «سَبَبٌ وَنَتِيجَةٌ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ قَسْوَةِ الظُّرُوفِ وَزِيَادَةِ صَبْرِ الْمَرْأَةِ هِيَ «تَرَادُفٌ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ طِيبَةِ الْأَرْضِ وَعُذُوبَةِ السَّمَاءِ وَصَبْرِ الصَّحْرَاءِ هِيَ «تَفْصِيلٌ لِصِفَاتٍ اكْتَسَبَتْهَا الْمَرْأَةُ مِنَ الْبِيئَةِ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ الْيَدِ الْعُلْيَا وَالْيَدِ السُّفْلَى هِيَ «تَرَادُفٌ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ لَوَّحَتِ الشَّمْسُ وَجْهَهَا وَبَقِيَتِ ابْتِسَامَتُهَا آسِرَةً هِيَ «مُقَابَلَةٌ تُبْرِزُ الصُّمُودَ أَمَامَ الْمَشَقَّةِ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ عَرَّقَتِ الْأَرْضُ مِنْهَا الْيَدَيْنِ وَظُهُورِ مَعَالِمِ الْكِفَاحِ هِيَ «تَضَادٌّ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ الْبَسَاطَةِ وَالْعَظَمَةِ فِي النَّصِّ هِيَ «الْبَسَاطَةُ لَا تَحْجُبُ الْعَظَمَةَ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ امْتِزَاجِ الْمَرْأَةِ بِالْوَادِي وَحَمْلِهَا طَابَعَهُ هِيَ «تَضَادٌّ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ عَطَائِهَا وَعَدَمِ انْتِظَارِهَا الْجَزَاءَ هِيَ «تَكَامُلٌ يُبْرِزُ الْإِخْلَاصَ».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ البِيئَةِ المِصْرِيَّةِ وَشَخْصِيَّةِ المَرْأَةِ فِي النَّصِّ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "امتزجت المرأة ببيئتها؛ فأخذت من الأرض طيبتها، ومن السماء عذوبتها، ومن الصحراء صبرها."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "وَازِنْ بَيْنَ اليَدِ العُلْيَا وَاليَدِ السُّفْلَى كَمَا يُفْهَمُ مِنَ النَّصِّ."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "اليد العليا تعطي وتبذل، أما اليد السفلى فتأخذ ولا تعطي."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ عَدَمِ انْخِدَاعِ المَرْأَةِ بِالأَضْوَاءِ وَبَقَائِهَا نَقِيَّةً؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سبب ونتيجة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ قَسْوَةِ الظُّرُوفِ وَزِيَادَةِ صَبْرِ المَرْأَةِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سبب ونتيجة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ طِيبَةِ الأَرْضِ وَعُذُوبَةِ السَّمَاءِ وَصَبْرِ الصَّحْرَاءِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تفصيل لصفات اكتسبتها المرأة من البيئة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ اليَدِ العُلْيَا وَاليَدِ السُّفْلَى؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مقابلة تبرز العطاء في مقابل الأخذ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ «لَوَّحَتِ الشَّمْسُ وَجْهَهَا» وَ«بَقِيَتِ ابْتِسَامَتُهَا آسِرَةً»؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مقابلة تبرز الصمود أمام المشقة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ «عَرَّقَتِ الأَرْضُ مِنْهَا اليَدَيْنِ» وَ«ظُهُورِ مَعَالِمِ الكِفَاحِ»؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سبب ونتيجة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ البَسَاطَةِ وَالعَظَمَةِ فِي النَّصِّ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "البساطة لا تحجب العظمة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ امْتِزَاجِ المَرْأَةِ بِالوَادِي وَحَمْلِهَا طَابَعَهُ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سبب ونتيجة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ «أَعْطَتْ أَضْعَافَ مَا أَخَذَتْ» وَمَا قَبْلَهَا عَلَاقَةُ ..... ."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "نَتِيجَة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ عَدَمِ انْخِدَاعِ المَرْأَةِ بِالأَضْوَاءِ وَبَقَائِهَا نَقِيَّةً عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سَبَب وَنَتِيجَة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ قَسْوَةِ الظُّرُوفِ وَزِيَادَةِ صَبْرِ المَرْأَةِ عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سَبَب وَنَتِيجَة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ طِيبَةِ الأَرْضِ وَعُذُوبَةِ السَّمَاءِ وَصَبْرِ الصَّحْرَاءِ عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تَفْصِيل لِصِفَاتٍ اكْتَسَبَتْهَا الْمَرْأَةُ مِنَ الْبِيئَةِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ اليَدِ العُلْيَا وَاليَدِ السُّفْلَى عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مُقَابَلَة تُبْرِزُ الْعَطَاءَ فِي مُقَابِلِ الْأَخْذِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ لَوَّحَتِ الشَّمْسُ وَجْهَهَا وَبَقِيَتِ ابْتِسَامَتُهَا آسِرَةً عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مُقَابَلَة تُبْرِزُ الصُّمُودَ أَمَامَ الْمَشَقَّةِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ عَرَّقَتِ الأَرْضُ يَدَيْهَا وَظُهُورِ مَعَالِمِ الكِفَاحِ عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سَبَب وَنَتِيجَةٌ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ البَسَاطَةِ وَالعَظَمَةِ فِي النَّصِّ تُوضِّحُ أنَّ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الْبَسَاطَةَ لَا تَحْجُبُ الْعَظَمَةَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ امْتِزَاجِ المَرْأَةِ بِالْوَادِي وَحَمْلِهَا طَابَعَهُ عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سَبَب وَنَتِيجَة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ عَطَائِهَا وَعَدَمِ انْتِظَارِهَا الجَزَاءَ عَلَاقَةُ ....."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تَكَامُل يُبْرِزُ الْإِخْلَاصَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  ]
+}]

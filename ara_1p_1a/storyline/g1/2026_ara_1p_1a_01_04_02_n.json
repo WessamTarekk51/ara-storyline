@@ -1,0 +1,1694 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_03_07_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+  "questions": [
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الصَّحِيحَةُ إِمْلَائِيًّا لِإِكْمَالِ الْجُمْلَةِ «حُبُّ الْوَطَنِ ..... قُلُوبَ الْمِصْرِيِّينَ» هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "يَمْلَأُ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "يَمْلَؤُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَمْلَئُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الصَّحِيحَةُ إِمْلَائِيًّا لِإِكْمَالِ الْجُمْلَةِ «..... الْقُلُوبُ بِالْكَلَامِ الطَّيِّبِ» هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَتَأَثَّرُ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَتَؤثَّرُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَتَئَثَّرُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الصَّحِيحَةُ إِمْلَائِيًّا لِإِكْمَالِ الْجُمْلَةِ «تَأَكَّدْتُ مِنْ صِحَّةِ .....» هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "إِجَابَتِي",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "أَجَابَتِي",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "آجَابَتِي",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الصَّحِيحَةُ إِمْلَائِيًّا لِإِكْمَالِ الْجُمْلَةِ «الرِّيفُ ..... لِلْهُدُوءِ وَالسَّكِينَةِ» هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مَلْجَأٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "مَلْجَئٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مَلْجَؤٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الصَّحِيحَةُ إِمْلَائِيًّا لِإِكْمَالِ الْجُمْلَةِ «لَا ..... قَرَارًا وَأَنْتَ غَاضِبٌ» هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَأْخُذْ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَئْخُذْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَؤْخَذْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الَّتِي تَبْدَأُ بِهَمْزَةٍ مَكْسُورَةٍ هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "إِكْرَام",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "أَحْمَد",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَمِين",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الَّتِي كُتِبَتْ هَمْزَتُهَا فِي وَسَطِهَا كِتَابَةً صَحِيحَةً هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "رَأْس",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "رَئْس",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "رَؤْسٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الَّتِي كُتِبَتْ هَمْزَتُهَا فِي آخِرِهَا كِتَابَةً صَحِيحَةً هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مَلْجَأ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "مَلْجَئ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مَلْجَؤ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "التَّرْتِيبُ الصَّحِيحُ لِهَمْزَتَيْ «أَتْقَنَ – إِتْقَان» هُوَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مَفْتُوحَةٌ وَمَكْسُورَةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "مَكْسُورَةٌ وَمَفْتُوحَةٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مَضْمُومَةٌ وَمَكْسُورَةٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْكَلِمَةُ الصَّحِيحَةُ إِمْلَائِيًّا هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "نَشْأَة",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "نَشْئة",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "نَشْؤَةٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "تُكْتَبُ الْهَمْزَةُ فِي أَوَّلِ كَلِمَةِ «أَحْمَدُ» فَوْقَ الْأَلِفِ لِأَنَّهَا مَفْتُوحَةٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "تُكْتَبُ الْهَمْزَةُ فِي أَوَّلِ كَلِمَةِ «إِسْعَادٌ» تَحْتَ الْأَلِفِ لِأَنَّهَا مَكْسُورَةٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كُتِبَتِ الْهَمْزَةُ فِي كَلِمَةِ «رَأْسٌ» عَلَى الْأَلِفِ لِأَنَّهَا سَاكِنَةٌ وَمَا قَبْلَهَا مَفْتُوحٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كُتِبَتِ الْهَمْزَةُ فِي كَلِمَةِ «يَسْأَلُونَ» عَلَى الْأَلِفِ لِأَنَّهَا مَفْتُوحَةٌ وَمَا قَبْلَهَا سَاكِنٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كُتِبَتِ الْهَمْزَةُ فِي كَلِمَةِ «مَلْجَأٌ» عَلَى الْأَلِفِ لِأَنَّ مَا قَبْلَهَا مَفْتُوحٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَلِمَةُ «رَئْسٌ» صَحِيحَةٌ إِمْلَائِيًّا.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَلِمَةُ «إِكْرَامٌ» صَحِيحَةٌ لِأَنَّ الْهَمْزَةَ مَكْسُورَةٌ فِي أَوَّلِ الْكَلِمَةِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَلِمَةُ «يَنْشُؤُ» صَحِيحَةٌ لِأَنَّ الْهَمْزَةَ فِي آخِرِ الْكَلِمَةِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "تُكْتَبُ هَمْزَةُ الْمَدِّ هَكَذَا «آ» عِنْدَمَا تَجْتَمِعُ هَمْزَةٌ مَفْتُوحَةٌ مَعَ أَلِفِ مَدٍّ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَلِمَةُ «مَبْدَءٌ» صَحِيحَةٌ لِأَنَّ الْهَمْزَةَ الْمُتَطَرِّفَةَ تُكْتَبُ دَائِمًا عَلَى السَّطْرِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "فِي كَلِمَةِ «أَحْمَدَ» كُتِبَتِ الهَمْزَةُ فِي أَوَّلِ الكَلِمَةِ عَلَى "
+      ],
+      "lastparag": " لِأَنَّهَا مَفْتُوحَةٌ.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الألف",
+            "الأَلِفِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "فِي كَلِمَةِ «رَأْس» جَاءَتِ الهَمْزَةُ "
+      ],
+      "lastparag": " الأَلِفِ لِأَنَّهَا سَاكِنَةٌ وَمَا قَبْلَهَا مَفْتُوحٌ.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "فوق",
+            "فَوْقَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "فِي كَلِمَةِ «إِسْعَاف» كُتِبَتِ الهَمْزَةُ "
+      ],
+      "lastparag": " الأَلِفِ لِأَنَّهَا مَكْسُورَةٌ.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تحت",
+            "تَحْتَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "فِي كَلِمَةِ «يَسْأَلُونَ» جَاءَتِ الهَمْزَةُ فَوْقَ الأَلِفِ لِأَنَّهَا "
+      ],
+      "lastparag": " وَمَا قَبْلَهَا سَاكِنٌ.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مفتوحة",
+            "مَفْتُوحَةٌ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "فِي كَلِمَةِ «مَلْجَأ» كُتِبَتِ الهَمْزَةُ فِي آخِرِ الكَلِمَةِ عَلَى الأَلِفِ لِأَنَّ مَا قَبْلَهَا "
+      ],
+      "lastparag": " .",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مفتوح",
+            "مَفْتُوحٌ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "الدَّوْلَةُ "
+      ],
+      "lastparag": " شَبَكَةَ طُرُقٍ حَدِيثَةً. أَكْمِلْ بِالْمَاضِي مِنْ «تُنْشِئُ».",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أنشأت",
+            "أَنْشَأَت"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "الاِعْتِرَافُ بِـ"
+      ],
+      "lastparag": " دَلِيلٌ عَلَى النُّضْجِ. أَكْمِلْ بِمُفْرَدِ «الأَخْطَاءِ».",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الخطأ",
+            "الخَطَأِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يُقَبِّلُ الاِبْنُ "
+      ],
+      "lastparag": " وَالِدَيْهِ حُبًّا وَاحْتِرَامًا لَهُمَا. أَكْمِلْ بِمُفْرَدِ «رُءُوس».",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "رأس",
+            "رَأْسَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "اخْتَرْتُ "
+      ],
+      "lastparag": " بِرِفْقٍ وَعِنَايَةٍ. أَكْمِلْ بِجَمْعِ «صَدِيقِي».",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أصدقائي",
+            "أَصْدِقَائِي"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَجَبْتُ عَنِ "
+      ],
+      "lastparag": " بِسُهُولَةٍ. أَكْمِلْ بِمُفْرَدِ «المَسَائِلِ».",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "المسألة",
+            "المَسْأَلَةِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لا تتئخر في أداء واجباتك."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "لَا تَتَأَخَّرْ فِي أَدَاءِ وَاجِبَاتِكَ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "نلجئ إلى الله في السراء والضراء."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "نَلْجَأُ إِلَى اللَّهِ فِي السَّرَّاءِ وَالضَّرَّاءِ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "طرء تغيير في خطة العمل."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "طَرَأَ تَغْيِيرٌ فِي خُطَّةِ الْعَمَلِ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كرمت أدارة المدرسة المتفوقين."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "كَرَّمَتْ إِدَارَةُ الْمَدْرَسَةِ الْمُتَفَوِّقِينَ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "الأسود تزءر بصوت عالٍ."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الْأُسُودُ تَزْأَرُ بِصَوْتٍ عَالٍ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "قرَئْت قصة شائقة وممتعة."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "قَرَأْتُ قِصَّةً شَائِقَةً وَمُمْتِعَةً."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "رئى الطفل منظرًا جميلًا."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "رَأَى الطِّفْلُ مَنْظَرًا جَمِيلًا."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "بدأت نشئة الحضارة قديمًا."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "بَدَأَتْ نَشْأَةُ الْحَضَارَةِ قَدِيمًا."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "هذا ملجئ آمن وقت المطر."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "هَذَا مَلْجَأٌ آمِنٌ وَقْتَ الْمَطَرِ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "صَوِّبِ الْخَطَأَ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/11.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يتفائل المجتهد بالنجاح."
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "يتَفَاءَلُ الْمُجْتَهِدُ بِالنَّجَاحِ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  ]
+}]

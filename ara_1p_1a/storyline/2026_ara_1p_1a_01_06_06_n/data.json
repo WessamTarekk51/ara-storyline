@@ -1,0 +1,421 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_03_07_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+  "questions": [
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "تُحَافِظُ الْمَرْأَةُ الْمِصْرِيَّةُ عَلَى مَكَانَتِهَا؛ لِأَنَّهَا تَتَّصِفُ بِـ.....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الضَّعْفِ وَالتَّرَدُّدِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْأَصَالَةِ وَقُوَّةِ الشَّخْصِيَّةِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْعُزْلَةُ عَنِ الْمُجْتَمَعِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الِانْشِغَالُ بِالْمَظَاهِرِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "أَثَرُ تَعَاقُبِ الزَّمَنِ فِي الْمَرْأَةِ الْمِصْرِيَّةِ هُوَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "أَفْقَدَهَا هُوِيَّتَهَا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "عَزَلَهَا عَنِ الْمُجْتَمَعِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَضْعَفَ عَطَاءَهَا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "زَادَهَا أَصَالَةً وَجَلَالًا",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+  
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "أَسْهَمَتِ الْمَرْأَةُ الْمِصْرِيَّةُ فِي بِنَاءِ الْحَضَارَةِ وَقَدَّمَتْ أَكْثَرَ مِمَّا أَخَذَتْ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "أَثَرُ تَعَاقُبِ الزَّمَنِ فِي الْمَرْأَةِ الْمِصْرِيَّةِ هُوَ «أَفْقَدَهَا هُوِيَّتَهَا».",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+   
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَخَذَتِ الْمَرْأَةُ الْمِصْرِيَّةُ مِنَ الْأَرْضِ طِيبَتَهَا، وَمِنَ السَّمَاءِ عُذُوبَتَهَا، وَمِنَ الصَّحْرَاءِ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "الَّذِي لَا يَنْفَدُ.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الصبر"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لَمْ تَنْتَظِرِ الْمَرْأَةُ الْمِصْرِيَّةُ جَزَاءً وَلَا "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "مُقَابِلَ عَطَائِهَا.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ثناء"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "تُشْبِهُ الْمَرْأَةُ الْمِصْرِيَّةُ فِي الْحُقُولِ أَعْوَادَ الذُّرَةِ، وَتَتَفَرَّقُ بَيْنَ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "الْقَمْحِ.",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "سنابل"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "تَجْمَعُ صُورَةُ الْمَرْأَةِ فِي النَّصِّ بَيْنَ الْبَسَاطَةِ وَ"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": ".",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "العظمة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  
+  
+   
+  ]
+}]

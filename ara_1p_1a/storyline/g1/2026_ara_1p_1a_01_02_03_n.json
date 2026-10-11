@@ -1,0 +1,1764 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_01_03_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+"questions": [
+    {
+      "id": 1,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "تَجَلَّتْ مَعَانِي الْوَفَاءِ لِلْوَطَنِ فِي سِيرَةِ الشَّهِيدِ. مَعْنَى «تَجَلَّتْ»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "ظَهَرَتْ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "ثَبَتَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "انْتَهَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "اخْتَفَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "تَجَلَّتْ شَجَاعَةُ أَحْمَد مَنْسِي فِي الْمَيْدَانِ. مُضَادُّ «تَجَلَّتْ»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَلَاشَتْ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "ظَهَرَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَوَقَّفَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "انْهَزَمَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "لَمْ يَكُنْ أَحْمَد مَنْسِي مَجْهُولًا بَيْنَ جُنُودِهِ. مُضَادُّ «مَجْهُولًا»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "ضَعِيفًا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مَعْرُوفًا",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "وَحِيدًا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مُتَرَدِّدًا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "كَانَ أَحْمَد مَنْسِي بَارًّا بِوَالِدَيْهِ. مَعْنَى «بَارًّا»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مُحْسِنًا",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "لَطِيفًا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "كَرِيمًا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مُتَوَاضِعًا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "خَاضَ أَحْمَد مَنْسِي مَعَارِكَ كَثِيرَةً بِسِينَاءَ. الْمَقْصُودُ بِـ«خَاضَ»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "انْسَحَبَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "شَارَكَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "هَرَبَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَوَقَّفَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "أَزَالَ الْجَيْشُ الْمِصْرِيُّ بُؤْرَةً إِرْهَابِيَّةً فِي سِينَاءَ. جَمْعُ «بُؤْرَة»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "بِئْرٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "بُؤَر",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "بَوَارٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "بُؤُر",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الدِّرَاسَاتُ الْأَثَرِيَّةُ أَسْفَرَتْ عَنْ اكْتِشَافِ مَقْبَرَةٍ فِرْعَوْنِيَّةٍ. مَعْنَى «أَسْفَرَتْ عَنْ»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "أَخْفَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَدَّتْ إِلَى",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "مَنَعَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَغْلَقَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "ضَبَطَتْ الْقُوَاتُ الْمِصْرِيَّةُ الْأَسْلِحَةَ وَالْمُتَفَجِّرَاتِ. مُرَادِفُ «ضَبَطَتْ»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَرَكَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "صَادَرَتْ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "أَهْمَلَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "نَقَلَتْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "كَانَتْ السَّيَّارَةُ الَّتِي وَاجَهَهَا أَحْمَد مَنْسِي مَلِيئَةً بِالْمُتَفَجِّرَاتِ. الْكَلِمَةُ الَّتِي تُؤَدِّي مَعْنَى «مَلِيئَةً بِالْمُتَفَجِّرَاتِ»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مُضِيئَة",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مُفَخَّخَة",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "فَارِغَة",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مُزَيَّنَة",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "كَانَ أَحْمَد مَنْسِي يَتَقَدَّمُ جُنُودَهُ وَلَا يَعْرِفُ التَّرَاجُعَ. مُضَادُّ «التَّرَاجُع»: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الرُّجُوع",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "التَّقَدُّم",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْخَوْف",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "التَّرَدُّد",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "ثَبَّتَتِ الْقِيَمَ الْوَطَنِيَّةَ فِي قَلْبِهِ. الْكَلِمَةُ الَّتِي تُؤَدِّي مَعْنَى «غَرَسَتْ»: ثَبَّتَتْ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "تَجَلَّتْ شَجَاعَتُهُ فِي الْمَيْدَانِ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«تَجَلَّتْ»: تَلَاشَتْ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "لَمْ يَكُنْ مَجْهُولًا بَيْنَ جُنُودِهِ. مُضَادُّ «مَجْهُولًا»: مَعْرُوفًا.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "أَحْسَنَ إِلَى وَالِدَيْهِ وَلَمْ يَكُنْ عَاقًّا. مُرَادِفُ «عَاقًّا»: بَارًّا.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "شَارَكَ فِي مَعَارِكَ كَثِيرَةٍ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«خَاضَ»: شَارَكَ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "أَزَالَ الْجَيْشُ بُؤْرَةً إِرْهَابِيَّةً. جَمْعُ «بُؤْرَةٍ»: بِئْرٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "أَدَّتِ الْعَمَلِيَّةُ إِلَى نَجَاحٍ كَبِيرٍ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«أَسْفَرَتْ»: أَدَّتْ إِلَى.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "صَادَرَتِ الْقُوَّاتُ الْأَسْلِحَةَ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«ضَبَطَتْ»: تَرَكَتْ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَانَتِ السَّيَّارَةُ مَلِيئَةً بِالْمُتَفَجِّرَاتِ. الْكَلِمَةُ الَّتِي تُؤَدِّي مَعْنَى «مَلِيئَةً بِالْمُتَفَجِّرَاتِ»: مُفَخَّخَةٌ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "يَتَقَدَّمُ الْقَائِدُ وَلَا يَعْرِفُ التَّرَاجُعَ. مُضَادُّ «التَّرَاجُعِ»: الرُّجُوعُ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "ثَبَّتَتِ الْقِيَمَ الْوَطَنِيَّةَ فِي قَلْبِهِ. الْكَلِمَةُ الَّتِي تُؤَدِّي مَعْنَى «غَرَسَتْ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ثبتت"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "ظَهَرَتْ شَجَاعَتُهُ فِي الْمَيْدَانِ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«تَجَلَّتْ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ظهرت"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لَمْ يَكُنْ مَجْهُولًا بَيْنَ جُنُودِهِ. مُضَادُّ «مَجْهُولًا» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "معروفًا"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَحْسَنَ إِلَى وَالِدَيْهِ وَلَمْ يَكُنْ عَاقًّا. مُضَادُّ «بَارًّا» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عاقًّا"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "شَارَكَ فِي مَعَارِكَ كَثِيرَةٍ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«خَاضَ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "شارك"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَزَالَ الْجَيْشُ بُؤْرَةً إِرْهَابِيَّةً. جَمْعُ «بُؤْرَةٍ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "بؤر"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَدَّتِ الْعَمَلِيَّةُ إِلَى نَجَاحٍ كَبِيرٍ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«أَسْفَرَتْ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أدت إلى"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "صَادَرَتِ الْقُوَّاتُ الْأَسْلِحَةَ. الْكَلِمَةُ الْمُرَادِفَةُ لِـ«ضَبَطَتْ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "صادرت"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَانَتِ السَّيَّارَةُ مَلِيئَةً بِالْمُتَفَجِّرَاتِ. الْكَلِمَةُ الَّتِي تُؤَدِّي مَعْنَى «مَلِيئَةً بِالْمُتَفَجِّرَاتِ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مفخخة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يَتَقَدَّمُ الْقَائِدُ وَلَا يَعْرِفُ التَّرَاجُعَ. مُضَادُّ «التَّرَاجُعِ» "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "التقدم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "غُرِسَتِ القِيَمُ الوَطَنِيَّةُ فِي قَلْبِ أَحْمَدَ مَنْسِي. الكَلِمَةُ الَّتِي تُؤَدِّي مَعْنَى «غُرِسَتْ» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ثَبَتَتْ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "تَجَلَّتْ شَجَاعَةُ أَحْمَدَ مَنْسِي فِي المَيْدَانِ. مُرَادِفُ «تَجَلَّتْ» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ظَهَرَتْ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لَمْ يَكُنْ أَحْمَدُ مَنْسِي مَجْهُولًا بَيْنَ جُنُودِهِ. مُضَادُ «مَجْهُولًا» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "...............",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مَعْرُوفًا"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَانَ أَحْمَدُ مَنْسِي بَارًّا بِوَالِدَيْهِ. مُضَادُّ «بَارًّا» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عَاقًّا"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "خَاضَ أَحْمَدُ مَنْسِي مَعَارِكَ كَثِيرَةً. مُرَادِفُ «خَاضَ» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "شَارَكَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَزَالَ الجَيْشُ بُؤْرَةً إِرْهَابِيَّةً. جَمْعُ «بُؤْرَة» "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "بُؤَرٌ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَسْفَرَتِ العَمَلِيَّةُ عَنْ نَجَاحٍ كَبِيرٍ. مُرَادِفُ «أَسْفَرَتْ» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أَدَّتْ إِلَى"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "صَادَرَتِ القُوَّاتُ الأَسْلِحَةَ. مُرَادِفُ «صَادَرَتْ» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ضَبَطَتْ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَانَتِ السَّيَّارَةُ مُفَخَّخَةً. مَعْنَى «مُفَخَّخَة» فِي الجُمْلَةِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مَلِيئَة بِالْمُتَفَجِّرَاتِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يَتَقَدَّمُ القَائِدُ وَلَا يَعْرِفُ التَّرَاجُعَ. مُضَادُ «التَّرَاجُع» "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "التَّقَدُّم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  ]
+}]

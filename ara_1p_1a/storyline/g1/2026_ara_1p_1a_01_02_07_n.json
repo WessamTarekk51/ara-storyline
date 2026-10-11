@@ -1,0 +1,1764 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_01_03_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+"questions": [
+    {
+      "id": 1,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "نَشَأَ أَحْمَد مَنْسِي فِي بِيئَةٍ أُسْرِيَّةٍ غَرَسَتْ فِيهِ ...",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الشِّدَّةَ وَالْعُنْفَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْقِيَمَ السَّمْحَةَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "حُبَّ النَّفْسِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "حُبُّ الشُّهْرَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "أَسْهَمَتْ أُسْرَةُ أَحْمَد مَنْسِي فِي تَكْوِينِ شَخْصِيَّتِهِ مِنْ خِلَالِ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الْمَنْعِ مِنَ التَّعَلُّمِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "غَرْسِ الْقِيَمِ الدِّينِيَّةِ وَحُبِّ الْوَطَنِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "التَّشْجِيعِ عَلَى الْعُزْلَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْبُعْدِ عَنِ الْوَطَنِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "انْضَمَّ أَحْمَد مَنْسِي بَعْدَ تَخَرُّجِهِ إِلَى قُوَّاتِ ...",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الْمَظَلَّاتِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الصَّاعِقَةِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْبَحْرِيَّةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "السِّلَاحِ الْجَوِّيِّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "آمَنَ أَحْمَد مَنْسِي أَنَّ الْقَائِدَ النَّاجِحَ لَا بُدَّ أَنْ يَجْمَعَ بَيْنَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الشِّدَّةِ وَالْحَزْمِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الشَّجَاعَةِ وَالْعِلْمِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْقَسْوَةِ وَالْعُنْفِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الضَّعْفِ وَالتَّسَاهُلِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "وَازَنَ أَحْمَد مَنْسِي بَيْنَ وَاجِبِهِ الْوَطَنِيِّ وَالْأُسَرِيِّ عَنْ طَرِيقِ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الْحِرْصِ عَلَى الْإِجَازَاتِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مَسْئولِيَّتِهِ الْوَطَنِيَّةِ وَبِرِّهِ بِأَهْلِهِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "رَفْضِ الْمَهَامِّ الصَّعْبَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "اعْتِزَالِ الْعَمَلِ لِإِرْضَاءِ الْأَهْلِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "كَانَتْ عَمَلِيَّةُ الشَّيْخِ زُوَيْد مُهِمَّةً لِأَنَّهَا .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "رِحْلَةٌ تَرْفِيهِيَّةٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "طَهَّرَتِ الْمِنْطَقَةَ مِنْ قِيَادَاتٍ إِرْهَابِيَّةٍ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "فُرْصَةٌ لِلظُّهُورِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَحَدٍّ لِلشُّهْرَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "كَانَ الدَّافِعُ الْحَقِيقِيُّ وَرَاءَ بُطُولَاتِ أَحْمَد مَنْسِي .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "التَّطَلُّعَ إِلَى مَنْصِبٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِيمَانَهُ بِحُبِّ الْوَطَنِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "حُبَّ الشُّهْرَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الرَّغْبَةَ فِي الْمَالِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "كُلُّ الْعِبَارَاتِ الْآتِيَةِ تَدُلُّ عَلَى الشَّجَاعَةِ وَالْإِقْدَامِ مَا عَدَا: .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "كَانَ قَائِدًا لَا يَعْرِفُ التَّرَاجُعَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "سِينَاءُ جُزْءٌ غَالٍ مِنْ أَرْضِ مِصْرَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "يَتَقَدَّمُ الصُّفُوفَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "خَاضَ مَعَ جُنُودِهِ بُطُولَاتٍ عَظِيمَةً",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "سَاهَمَ تَصَرُّفُ أَحْمَد مَنْسِي فِي حِمَايَةِ جُنُودِهِ عِنْدَمَا .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "سَارَعَ بِطَلَبِ الْإِسْعَافِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "شَغَلَ انْتِبَاهَ الْإِرْهَابِيِّينَ لِإِتَاحَةِ نَقْلِ الْمُصَابِينَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "مَنْعَ جُنُودَهِ مِنَ الْحَرَكَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "غَادَرَ الْمَكَانَ بِجُنُودِهِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "نَتَعَلَّمُ مِنْ قَوْلِ أَحْمَد مَنْسِي «نَحْنُ هُنَا مِنْ أَجْلِ أَنْ نَحْمِيَ هَذِهِ الْأَرْضَ» .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "أَنَّ الْوَطَنَ بِلَا قِيمَةٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَنَّ حِمَايَةَ الْوَطَنِ مَسْئُولِيَّةٌ وَتَضْحِيَّةٌ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "أَنَّ الْهُرُوبَ أَفْضَلُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَنَّ الْعِلْمَ غَيْرُ مُهِمٍّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "لِمَاذَا اخْتَارَ الْكَاتِبُ أَحْمَد مَنْسِي نَمُوذَجًا؟ لِأَنَّهُ جَسَّدَ الْبُطُولَةَ وَالِانْتِمَاءَ وَالْوَفَاءَ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَيْفَ أَسْهَمَتْ أُسْرَتُهُ فِي تَكْوِينِ شَخْصِيَّتِهِ؟ مَنَعَتْهُ مِنَ التَّعَلُّمِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "لِمَاذَا جَمَعَ الْقَائِدُ النَّاجِحُ بَيْنَ الْعِلْمِ وَالشَّجَاعَةِ؟ لِيَخْدُمَ وَطَنَهُ بِكَفَاءَةٍ وَوَعْيٍ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَيْفَ دَلَّ سُلُوكُهُ مَعَ الْجُنُودِ عَلَى إِنْسَانِيَّتِهِ؟ تَجَاهَلَهُمْ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَيْفَ وَازَنَ بَيْنَ وَاجِبِهِ الْوَطَنِيِّ وَالْأُسَرِيِّ؟ أَدَّى مَسْئُولِيَّتَهُ الْوَطَنِيَّةَ وَظَلَّ بَارًّا بِأَهْلِهِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "لِمَاذَا كَانَتْ عَمَلِيَّةُ الشَّيْخِ زُوَيْدٍ مُهِمَّةً؟ كَانَتْ رِحْلَةً تَرْفِيهِيَّةً.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "مَا الدَّافِعُ الْحَقِيقِيُّ وَرَاءَ بُطُولَاتِهِ؟ إِيمَانُهُ بِسَيْنَاءَ وَحُبُّ الْوَطَنِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَيْفَ ظَهَرَتْ بُطُولَتُهُ فِي يَوْمِ 7 يُولْيُو 2017؟ انْسَحَبَ مُبَكِّرًا.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "كَيْفَ سَاهَمَ تَصَرُّفُهُ فِي حِمَايَةِ جُنُودِهِ؟ شَغَلَ انْتِبَاهَ الْإِرْهَابِيِّينَ وَأَتَاحَ نَقْلَ الْمُصَابِينَ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "مَاذَا تَعَلَّمْنَا مِنْ قَوْلِهِ نَحْنُ هُنَا مِنْ أَجْلِ أَنْ نَحْمِيَ هَذِهِ الْأَرْضَ؟ أَنَّ الْوَطَنَ بِلَا قِيمَةٍ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لِمَادَا اخْتَارَ الْكَاتِبُ أَحْمَد مَنْسِي نَمُوذَجًا؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "لأنه جسد البطولة والانتماء والوفاء"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَيْفَ أَسْهَمَتْ أُسْرَتُهُ فِي تَكْوِينِ شَخْصِيَّتِهِ؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "غرست فيه القيم الدينية وحب الوطن"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لِمَادَا جَمَعَ الْقَائِدُ النَّاجِحُ بَيْنَ الْعِلْمِ وَالشَّجَاعَةِ؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ليخدم وطنه بكفاءة ووعي"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَيْفَ دَلَّ سُلُوكُهُ مَعَ الْجُنُودِ عَلَى إِنْسَانِيَّتِهِ؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عاملهم كإخوة واطمأن عليهم وشاركهم الطعام"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَيْفَ وَازَنَ بَيْنَ وَاجِبِهِ الْوَطَنِيِّ وَالْأُسَرِيِّ؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أدى مسئوليته الوطنية وظل بارًّا بأهله"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لِمَادَا كَانَتْ عَمَلِيَّةُ الشَّيْخِ زُوَيد مُهِمَّةً؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "طهرت المنطقة من قيادات إرهابية وضبطت أسلحة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا الدَّافِعُ الْحَقِيقِيُّ وَرَاءَ بُطُولَاتِهِ؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "إيمانه بأن سيناء جزء غالٍ من أرض الوطن يجب الحفاظ عليه"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَيْفَ ظَهَرَتْ بُطُولَتُهُ فِي يَوْمِ 7 يُولْيُو 2017؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "واجه الهجوم بشجاعة وحمى زملاءه حتى استشهد"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "كَيْفَ سَاهَمَ تَصَرُّفُهُ فِي حِمَايَةِ جُنُودِهِ؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "شغل انتباه الإرهابيين وأتاح نقل المصابين"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَاذَا تَعَلَّمْنَا مِنْ قَوْلِهِ: «نَحْنُ هُنَا مِنْ أَجْلِ أَنْ نَحْمِيَ هَذِهِ الْأَرْضَ»؟ "
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أن حماية الوطن مسئولية وتضحية"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "اخْتَارَ الكَاتِبُ أَحْمَدَ مَنْسِي نَمُوذَجًا لِأَنَّهُ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "جَسَّدَ البُطُولَةَ وَالاِنْتِمَاءَ وَالوَفَاءَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَسْهَمَتْ أُسْرَةُ أَحْمَدَ مَنْسِي فِي تَكْوِينِ شَخْصِيَّتِهِ مِنْ خِلَالِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "غَرْسِ القِيَمِ الدِّينِيَّةِ وَحُبِّ الوَطَنِ فِيهِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "جَمَعَ القَائِدُ النَّاجِحُ بَيْنَ العِلْمِ وَالشَّجَاعَةِ مِنْ أَجْلِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أَنْ يَخْدُمَ وَطَنَهُ بِكَفَاءَةٍ وَوَعْيٍ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "دَلَّ سُلُوكُ أَحْمَدَ مَنْسِي مَعَ جُنُودِهِ عَلَى إِنْسَانِيَّتِهِ مِنْ خِلَالِ جُمْلَةِ: "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عَامَلَهُمْ كَإِخْوَةٍ وَاطْمَأَنَّ عَلَيْهِمْ وَشَارَكَهُمُ الطَّعَامَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "وَازَنَ أَحْمَدُ مَنْسِي بَيْنَ وَاجِبِهِ الوَطَنِيِّ وَالأُسَرِيِّ عَنْ طَرِيقِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أَدَاءِ مَسْؤُولِيَّتِهِ الوَطَنِيَّةِ وَبِرِّ أَهْلِهِ."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "اكْتَسَبَتْ عَمَلِيَّةُ الشَّيْخِ زُوَيِّدَ أَهَمِّيَّتَهَا مِنَ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تَطْهِيرِ المِنْطَقَةِ مِنْ قِيَادَاتٍ إِرْهَابِيَّةٍ وَضَبْطِ أَسْلِحَةٍ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يَتَمَثَّلُ الدَّافِعُ الحَقِيقِيُّ وَرَاءَ بُطُولَاتِ أَحْمَدَ مَنْسِي فِي "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "إِيمَانِهِ بِسَيْنَاءَ وَحُبِّ الوَطَنِ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "ظَهَرَتْ بُطُولَةُ أَحْمَدَ مَنْسِي يَوْمَ 7 يُولْيُو 2017 عِنْدَمَا "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "وَاجَهَ الهُجُومَ بِشَجَاعَةٍ وَحَمَى زُمَلَاءَهُ حَتَّى اسْتُشْهِدَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَسْهَمَ تَصَرُّفُ أَحْمَدَ مَنْسِي فِي حِمَايَةِ جُنُودِهِ مِنْ خِلَالِ "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "شَغَلَ انْتِبَاهَ الإِرْهَابِيِّينَ وَأَتَاحَ نَقْلَ المُصَابِينَ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "نَتَعَلَّمُ مِنْ قَوْلِ أَحْمَدَ مَنْسِي «نَحْنُ هُنَا مِنْ أَجْلِ أَنْ نَحْمِيَ هَذِهِ الأَرْضَ» "
+      ],
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أَنَّ حِمَايَةَ الوَطَنِ مَسْؤُولِيَّةٌ وَتَضْحِيَةٌ"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  ]
+}]

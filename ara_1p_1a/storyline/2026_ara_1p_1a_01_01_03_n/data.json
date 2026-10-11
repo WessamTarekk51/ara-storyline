@@ -1,0 +1,418 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_01_03_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْقِيمَةُ الْأَبْرَزُ فِي تَجْرِبَةِ أَحْمَد زُوَيْلٍ هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الِاجْتِهَادُ فِي طَلَبِ الْعِلْمِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْخَوْفُ مِنَ الْمُسْتَقْبَلِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "التَّفَاخُرُ بِالْجَائِزَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الِاعْتِمادُ عَلَى الآخَرِينَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "اتَّصَفَ مَوْقِفُ أَحْمَد زُوَيل مِنْ وَطَنِهِ بِأَنَّهُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "يَتَنَكَّرُ لِوَطَنِهِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَنْتَقِدُ تَارِيخَهَا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَتَجَاهَلُ جُذُورَهُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَفْخَرُ بِمِصْرَ وَحَضَارَتِهَا",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الدَّرْسُ الْمُسْتَفَادُ مِنْ تَجْرِبَةِ زُوَيْل: النَّجَاحُ بِلَا جُهْدٍ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ النَّجَاحِ وَالِانْتِمَاءِ: النَّجَاحُ الْحَقِيقِيُّ يَخْدُمُ الْوَطَنَ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا القِيمَةُ الأَبْرَزُ فِي تَجْرِبَةِ زُوَيْلٍ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الاجتهاد في طلب العلم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا مَوْقِفُ زُوَيْلٍ مِنْ وَطَنِهِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "يفخر بمصر وحضارتها"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "معنى «نبغ» في وصف المصريين القدماء .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "برع",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "جزع",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "بدأ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "عرف",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "استخدم المصريون القدماء  ","في علاج الأمراض."
+      ],
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الأعشاب"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  ]
+}]

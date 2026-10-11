@@ -1,0 +1,683 @@
+[
+  {
+    "counterCorrect": 0,
+    "LOcorrectcounter": 0,
+    "loTargets": null,
+    "numberOfquestion": 0,
+    "numberOfTotalQuestion": 0,
+    "cmi": {
+      "completion_status": "unknown",
+      "success_status": "unknown",
+      "total_time": 0,
+      "score": {
+        "raw": 0,
+        "min": 0,
+        "max": 100,
+        "scaled": 0
+      }
+    },
+    "studentProgress": {
+      "infoDetails": {
+        "info": {
+          "id": null,
+          "status": null,
+          "timestamp": null
+        }
+      },
+      "videos": {
+        "video": {
+          "duration": null,
+          "percent": null,
+          "status": null,
+          "time": null
+        }
+      }
+    },
+    "lang": null,
+    "feedBackTxt": null,
+    "feedBackDes": null,
+    "id": "mth_3r_1a_02_04_04",
+    "subjectId": "",
+    "conceptId": "",
+    "unitId": "",
+    "lessonId": "",
+    "title": "",
+    "keywords": "",
+    "learningObjectives": "",
+    "BloomLevels": [],
+    "type": "",
+    "loDegree": null,
+    "UserDegree": 0,
+    "SubType": "input",
+    "startTime": "",
+    "endTime": "",
+    "Educational_stage": "5r_1a",
+    "navgations": [
+      {
+        "numOfQuestion": 0,
+        "correctCounter": 0,
+        "wrongCounter": 0,
+        "status": false,
+        "precentage": 0,
+        "name": "home",
+        "title": "نشاط"
+      },
+      {
+        "numOfQuestion": 0,
+        "correctCounter": 0,
+        "wrongCounter": 0,
+        "status": false,
+        "precentage": 0,
+        "name": "quiz"
+      }
+    ],
+    "questions": [
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "choose",
+        "title": "اختر الإجابة الصحيحة لكل سؤال مما يلي:",
+        "question": "في بلدٍ بعيدٍ، عاشَ أسدٌ شجاعٌ يُدعى ليْث، و كان له أصدقاء كثرٌ. في يومٍ من الأيام، قرر ليث و صديقه الطائر زيْد الذهاب في مغامرةٍ جديدةٍ. اجتمعوا عند شجرةٍ كبيرةٍ في الغابة و بدأوا في التخطيط.",
+        "img": "./images/t1.png",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "answers": [
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة صح",
+            "select": false,
+            "answer": true,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "choose",
+        "title": "اختر الإجابة الصحيحة لكل سؤال مما يلي:",
+        "question": "في بلدٍ بعيدٍ، عاشَ أسدٌ شجاعٌ يُدعى ليْث، و كان له أصدقاء كثرٌ. في يومٍ من الأيام، قرر ليث و صديقه الطائر زيْد الذهاب في مغامرةٍ جديدةٍ. اجتمعوا عند شجرةٍ كبيرةٍ في الغابة و بدأوا في التخطيط.",
+        "img": "./images/t1.png",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "answers": [
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة صح",
+            "select": false,
+            "answer": true,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "choose",
+        "title": "اختر الإجابة الصحيحة لكل سؤال مما يلي:",
+        "question": "في بلدٍ بعيدٍ، عاشَ أسدٌ شجاعٌ يُدعى ليْث، و كان له أصدقاء كثرٌ. في يومٍ من الأيام، قرر ليث و صديقه الطائر زيْد الذهاب في مغامرةٍ جديدةٍ. اجتمعوا عند شجرةٍ كبيرةٍ في الغابة و بدأوا في التخطيط.",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "answers": [
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة صح",
+            "select": false,
+            "answer": true,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "choose",
+        "title": "اختر الإجابة الصحيحة لكل سؤال مما يلي:",
+        "question": "",
+        "img": "./images/t1.png",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "answers": [
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة صح",
+            "select": false,
+            "answer": true,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          },
+          {
+            "choose": "اجابة خطا",
+            "select": false,
+            "answer": false,
+            "solve": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "trueFalse",
+        "title": "حدِّدْ ما إذا كانَتِ العبارةُ صحيحةً أم خطأً:",
+        "question": "في بلدٍ بعيدٍ، عاشَ أسدٌ شجاعٌ يُدعى ليْث، و كان له أصدقاء كثرٌ. في يومٍ من الأيام، قرر ليث و صديقه الطائر زيْد الذهاب في مغامرةٍ جديدةٍ. اجتمعوا عند شجرةٍ كبيرةٍ في الغابة و بدأوا في التخطيط.",
+        "img": "./images/t1.png",
+        "soundQ": "",
+        "soundT": "./audio/t3.mp3",
+        "MaxSizeFontTrueFalse": true,
+        "answers": [
+          {
+            "toChoose": "✓",
+            "answer": true,
+            "check": false
+          },
+          {
+            "toChoose": "✗",
+            "answer": false,
+            "check": false
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "BloomLevel": 3,
+        "type": "match",
+        "title": "صِل بين عناصر العمود الأول وما يقابلها في العمود الثاني:",
+        "soundQ": "",
+        "soundT": "./audio/t1.mp3",
+        "matchs": [
+          {
+            "point": 1,
+            "textRight": "",
+            "textLeft": "",
+            "imgRight": "./images/t2.png",
+            "imgLeft": "./images/t2.png",
+            "answer": false
+          },
+          {
+            "point": 2,
+            "textRight": "",
+            "textLeft": "",
+            "imgRight": "./images/t2.png",
+            "imgLeft": "./images/t2.png",
+            "answer": false
+          },
+          {
+            "point": 3,
+            "textRight": "",
+            "textLeft": "",
+            "imgRight": "./images/t2.png",
+            "imgLeft": "./images/t2.png",
+            "answer": false
+          },
+          {
+            "point": 4,
+            "textRight": "",
+            "textLeft": "",
+            "imgRight": "./images/t2.png",
+            "imgLeft": "./images/t2.png",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "BloomLevel": 3,
+        "type": "match",
+        "title": "صِل بين عناصر العمود الأول وما يقابلها في العمود الثاني:",
+        "soundQ": "./audio/q1.mp3",
+        "soundT": "./audio/t1.mp3",
+        "matchs": [
+          {
+            "point": 1,
+            "textRight": "44444",
+            "textLeft": "44444444",
+            "imgRight": "",
+            "imgLeft": "",
+            "answer": false
+          },
+          {
+            "point": 2,
+            "textRight": "222222",
+            "textLeft": "2222222",
+            "imgRight": "",
+            "imgLeft": "",
+            "answer": false
+          },
+          {
+            "point": 3,
+            "textRight": "11111",
+            "textLeft": "111111111111",
+            "imgRight": "",
+            "imgLeft": "",
+            "answer": false
+          },
+          {
+            "point": 4,
+            "textRight": "33333333",
+            "textLeft": "33333333",
+            "imgRight": "",
+            "imgLeft": "",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "dragDrop",
+        "title": "اسحب العناصر وضعها في المكان الصحيح:",
+        "question": "",
+        "img": "",
+        "soundQ": "./audio/q2.mp3",
+        "soundT": "./audio/t2.mp3",
+        "column": false,
+        "drags": [
+          {
+            "text": "",
+            "img": "./images/t3.png",
+            "id": 1,
+            "placed": false
+          },
+          {
+            "text": "",
+            "img": "./images/t3.png",
+            "id": 2,
+            "placed": false
+          },
+          {
+            "text": "",
+            "img": "./images/t3.png",
+            "id": 3,
+            "placed": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "dragDrop",
+        "title": "اسحب العناصر وضعها في المكان الصحيح:",
+        "question": "",
+        "img": "",
+        "soundQ": "./audio/q2.mp3",
+        "soundT": "./audio/t3.mp3",
+        "column": true,
+        "drags": [
+          {
+            "text": "111 111",
+            "img": "",
+            "id": 1,
+            "placed": false
+          },
+          {
+            "text": "222222",
+            "img": "",
+            "id": 2,
+            "placed": false
+          },
+          {
+            "text": "3333",
+            "img": "",
+            "id": 3,
+            "placed": false
+          },
+          {
+            "text": "4444",
+            "img": "",
+            "id": 4,
+            "placed": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "dragDrop",
+        "title": "اسحب العناصر وضعها في المكان الصحيح:",
+        "question": "",
+        "img": "",
+        "soundQ": "./audio/q2.mp3",
+        "soundT": "./audio/t3.mp3",
+
+        "column": false,
+        "CorrectAnswer": "قَـدَمٌ",
+        "ShowAnswerAfterFinished": true,
+        "drags": [
+          {
+            "text": "قَـ",
+            "img": "",
+            "id": 1,
+            "placed": false
+          },
+          {
+            "text": "دَ",
+            "img": "",
+            "id": 2,
+            "placed": false
+          },
+          {
+            "text": "مٌ",
+            "img": "",
+            "id": 3,
+            "placed": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "اكمل",
+        "question": "في بلدٍ بعيدٍ، عاشَ أسدٌ شجاعٌ يُدعى ليْث، و كان له أصدقاء كثرٌ. في يومٍ من الأيام، قرر ليث و صديقه الطائر زيْد الذهاب في مغامرةٍ جديدةٍ. اجتمعوا عند شجرةٍ كبيرةٍ في الغابة و بدأوا في التخطيط.",
+        "img": "./images/t1.png",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["1 ", "2", "3"],
+        "lastparag": "hi",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["1", "11"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 1,
+            "valid": ["2"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 1,
+            "valid": ["3"],
+            "comma": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "اكمل",
+        "question": "في بلدٍ بعيدٍ، عاشَ أسدٌ شجاعٌ يُدعى ليْث، و كان له أصدقاء كثرٌ. في يومٍ من الأيام، قرر ليث و صديقه الطائر زيْد الذهاب في مغامرةٍ جديدةٍ. اجتمعوا عند شجرةٍ كبيرةٍ في الغابة و بدأوا في التخطيط.",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["1 ", "2", "3"],
+        "lastparag": "hi",
+        "inputs": [
+          {
+            "numOfInput": 2,
+            "valid": ["1", "2"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 1,
+            "valid": ["3"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 1,
+            "valid": ["4"],
+            "comma": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "correct",
+        "title": " Punctuate",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/t4.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["Ras Mohamed is in the south of ", "inai, Egypt"],
+        "lastparag": "",
+        "fullAnswer": "اسمي  <span class='sucess-text' >ا</span>سام, عندي  <span class='sucess-text' >ا</span>مبيوتر ",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["و"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 1,
+            "valid": ["ك"],
+            "comma": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "type": "inlinePassageDragDrop",
+        "direction": "rtl",
+        "title": "Read and complete the text with the words in the box:",
+        "question": "",
+        "soundQ": "./audio/t3.mp3",
+        "soundT": "./audio/t3.mp3",
+        "hint": "اقرأ الجملة كاملة قبل اختيار الكلمة.",
+        "startTime": "",
+        "endTime": "",
+        "drags": [
+          {
+            "id": "drag-1",
+            "text": "sports"
+          },
+          {
+            "id": "drag-2",
+            "text": "healthy"
+          },
+          {
+            "id": "drag-3",
+            "text": "lungs"
+          },
+          {
+            "id": "drag-4",
+            "text": "body"
+          },
+          {
+            "id": "drag-5",
+            "text": "soda"
+          }
+        ],
+        "passageParts": [
+          {
+            "type": "text",
+            "value": "Mazen asks why it is important to play "
+          },
+          {
+            "type": "drop",
+            "id": "drop-1",
+            "correctAnswerId": "drag-1"
+          },
+          {
+            "type": "text",
+            "value": "[1]. Mom says sports help us stay "
+          },
+          {
+            "type": "drop",
+            "id": "drop-2",
+            "correctAnswerId": "drag-2"
+          },
+          {
+            "type": "text",
+            "value": [
+              "[2] and make our bodies stronger.",
+              "Football makes the heart strong and helps muscles grow.",
+              "Swimming makes the "
+            ]
+          },
+          {
+            "type": "drop",
+            "id": "drop-3",
+            "correctAnswerId": "drag-4"
+          },
+          {
+            "type": "text",
+            "value": "[3] strong and helps the whole "
+          },
+          {
+            "type": "drop",
+            "id": "drop-4",
+            "correctAnswerId": "drag-5"
+          },
+          {
+            "type": "text",
+            "value": "[4]."
+          }
+        ]
+      }
+    ]
+  }
+]

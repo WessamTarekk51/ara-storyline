@@ -1,0 +1,359 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_01_01_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+  "questions": [{
+      "id": 1,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اختر الإجابة الصحيحة:",
+      "question": "تَتَمَثَّلُ الفِكْرَةُ الرَّئِيسَةُ لِلنَّصِّ فِي .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "BloomLevel": 2,
+      "answers": [{
+          "choose": "مَكَانَةِ مِصْرَ الحَضَارِيَّةُ وَالعِلْمِيَّةُ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "وَصْفِ رِحْلَةٍ سِيَاحِيَّةٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَارِيخِ الرِّيَاضَةِ المِصْرِيَّةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَهَمِيَّةِ التِّجَارَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اختر الإجابة الصحيحة:",
+      "question": "تَتَمَثَّلُ الفِكْرَةُ الفَرْعِيَّةُ الأُولَى فِي .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "BloomLevel": 2,
+      "answers": [{
+          "choose": "نَشْأَةِ زُوَيْل فِي الرِّيفِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "رِحْلَةٍ إِلَى أُورُوبَّا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِنْشَاءِ مَصْنَعٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَصْمِيمِ مِيدَالْيَةِ نوبِل ودَلَالَتِه",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اختر الإجابة الصحيحة:",
+      "question": "تَتَمَثَّلُ الفِكْرَةُ الفَرْعِيَّةُ الثَّانِيَةُ فِي .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "BloomLevel": 2,
+      "answers": [{
+          "choose": "قِصَّةٍ خَيَالِيَّةٌ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "حِوَارٍ أُسَرِيٌّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "رِحْلَةِ العِلْمِ عَبْرَ الزَّمَنِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "مُنافَسَةٍ رِيَاضِيَّةٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اختر الإجابة الصحيحة:",
+      "question": "تَتَمَثَّلُ الفِكْرَةُ الفَرْعِيَّةُ الثَّالِثَةُ فِي .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "BloomLevel": 2,
+      "answers": [{
+          "choose": "زِيَارَةِ المَتْحَفِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أَمَلِ زُوَيْل فِي نَهْضَةِ مِصْرَ العِلْمِيَّةِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "شِرَاءِ الكُتُبِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "بِنَاءِ مَنْزِلٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+
+   
+    {
+      "id": 15,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حدِّدْ ما إذا كانتِ العبارةُ صحيحةً أم خطأً:",
+      "question": "الْفِكْرَةُ الرَّئِيسَةُ لِلنَّصِّ: مَكَانَةُ مِصْرَ الْحَضَارِيَّةُ وَالْعِلْمِيَّةُ مِنْ خِلَالِ تَجْرِبَةِ زُوَيْل.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "BloomLevel": 2,
+      "MaxSizeFontTrueFalse": true,
+      "answers": [{
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حدِّدْ ما إذا كانتِ العبارةُ صحيحةً أم خطأً:",
+      "question": "الْفِكْرَةُ الْفَرْعِيَّةُ الْأُولَى: نَشْأَةُ زُوَيْل فِي الرِّيفِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "BloomLevel": 2,
+      "MaxSizeFontTrueFalse": true,
+      "answers": [{
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حدِّدْ ما إذا كانتِ العبارةُ صحيحةً أم خطأً:",
+      "question": "الْفِكْرَةُ الْفَرْعِيَّةُ الثَّانِيَةُ: رِحْلَةُ الْعِلْمِ عَبْرَ الزَّمَنِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "BloomLevel": 2,
+      "MaxSizeFontTrueFalse": true,
+      "answers": [{
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "1",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حدِّدْ ما إذا كانتِ العبارةُ صحيحةً أم خطأً:",
+      "question": "الْفِكْرَةُ الْفَرْعِيَّةُ الثَّالِثَةُ: شِرَاءُ الْكُتُبِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "BloomLevel": 2,
+      "MaxSizeFontTrueFalse": true,
+      "answers": [{
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    }
+  ]
+}]

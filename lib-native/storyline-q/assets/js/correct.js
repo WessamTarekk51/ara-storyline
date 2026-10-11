@@ -1,0 +1,133 @@
+var checkInput = false;
+
+function numOfInput(activeQuestion) {
+  activeQuestion.numberInputs = 0;
+  activeQuestion.inputs.forEach((e) => {
+    activeQuestion.numberInputs += e.numOfInput;
+  });
+}
+
+function arabicToWestern(input) {
+  const arabic = ["٠", "١", "٢", "٣", "٤", "٥", "٦", "٧", "٨", "٩"];
+  const western = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+
+  return input.replace(/[٠-٩]/g, function (digit) {
+    return western[arabic.indexOf(digit)];
+  });
+}
+
+function checkInputALL(activeQuestion) {
+  var inputs = document.querySelectorAll(".active .input");
+  inputs.forEach((input) => {
+    input.value = input.value.trim();
+    var index = input.getAttribute("index");
+    checkInput = true;
+    activeQuestion.inputs[index].valid.forEach((valid, i) => {
+      if (checkInput) {
+        if (inputs[0].style.cssText == "font-family: vazirmatn-light-lower;") {
+          input.value = arabicToWestern(input.value);
+        }
+        if (input.value == valid) {
+          input.classList.remove("false");
+          input.classList.add("true");
+          activeQuestion.inputs[index].valid.splice(i, 1);
+          activeQuestion.counterCorrectQuestion += 1;
+          checkInput = false;
+        } else {
+          input.classList.add("false");
+          input.classList.remove("true");
+        }
+      }
+    });
+  });
+  return checkanswer(inputs, activeQuestion);
+}
+
+function checkanswer(inputs, activeQuestion) {
+  inputs.forEach((input) => {
+    if (input.classList.contains("false")) {
+      input.classList.add("wrong");
+      input.classList.remove("right");
+    } else if (input.classList.contains("true")) {
+      input.classList.add("right");
+      input.classList.remove("wrong");
+      input.classList.remove("emptyInput");
+    } else {
+      input.classList.add("wrong");
+      input.classList.remove("right");
+    }
+  });
+
+  return activeQuestion.counterCorrectQuestion == activeQuestion.numberInputs;
+}
+
+
+
+function showAnswer(activeQuestion) {
+  if (!activeQuestion) return;
+
+  if (activeQuestion.type === "input") {
+    const inputs = document.querySelectorAll(".active .input.emptyInput");
+
+    inputs.forEach((input) => {
+      const index = input.getAttribute("index");
+      const validAnswers = activeQuestion.inputs?.[index]?.valid;
+
+      if (!validAnswers?.length) return;
+
+      input.value = validAnswers[0];
+      validAnswers.splice(0, 1);
+      input.classList.add("displayinput", "right");
+      input.classList.remove("wrong", "false");
+    });
+
+    return;
+  }
+
+  if (activeQuestion.type !== "correct") return;
+
+  const answerContainer = document.querySelector(".active .show-ans-temp");
+  if (!answerContainer) return;
+
+  let answerElement = answerContainer.querySelector(".show-answer");
+
+  if (!answerElement) {
+    answerElement = document.createElement("p");
+    answerElement.className = "show-answer fade-in";
+    answerContainer.appendChild(answerElement);
+  }
+
+  answerElement.innerHTML = activeQuestion.fullAnswer || "";
+}
+
+function maxLength(event, activeQuestion) {
+  let index = event.target.getAttribute("index");
+  let maxLength = 0;
+  activeQuestion.inputs[index].valid.forEach((el) => {
+    maxLength = maxLength > el.trim().length ? maxLength : el.trim().length;
+  });
+  event.target.setAttribute("maxlength", maxLength +1);
+}
+
+function allInputsFilled() {
+  const inputs = document.querySelectorAll(".active .input");
+  let filled = true;
+
+  inputs.forEach((input) => {
+    if (input.value.trim() === "") {
+      filled = false;
+    }
+  });
+
+  return filled;
+}
+
+function resetInputs() {
+  const inputs = document.querySelectorAll(".active .input");
+
+  inputs.forEach((input) => {
+    input.value = "";
+    input.classList.remove("true", "false", "right", "wrong");
+    input.classList.add("emptyInput");
+  });
+}

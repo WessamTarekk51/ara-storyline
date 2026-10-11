@@ -1,0 +1,282 @@
+[
+  {
+    "counterCorrect": 0,
+    "LOcorrectcounter": 0,
+    "loTargets": null,
+    "numberOfquestion": 0,
+    "numberOfTotalQuestion": 0,
+    "cmi": {
+      "completion_status": "unknown",
+      "success_status": "unknown",
+      "total_time": 0,
+      "score": {
+        "raw": 0,
+        "min": 0,
+        "max": 100,
+        "scaled": 0
+      }
+    },
+    "studentProgress": {
+      "infoDetails": {
+        "info": {
+          "id": null,
+          "status": null,
+          "timestamp": null
+        }
+      },
+      "videos": {
+        "video": {
+          "duration": null,
+          "percent": null,
+          "status": null,
+          "time": null
+        }
+      }
+    },
+    "lang": null,
+    "feedBackTxt": null,
+    "feedBackDes": null,
+    "id": "mth_3r_1a_02_04_04",
+    "subjectId": "",
+    "conceptId": "",
+    "unitId": "",
+    "lessonId": "",
+    "title": "",
+    "keywords": "",
+    "learningObjectives": "",
+    "BloomLevels": [],
+    "type": "",
+    "loDegree": null,
+    "UserDegree": 0,
+    "SubType": "input",
+    "startTime": "",
+    "endTime": "",
+    "Educational_stage": "5r_1a",
+    "navgations": [
+      {
+        "numOfQuestion": 0,
+        "correctCounter": 0,
+        "wrongCounter": 0,
+        "status": false,
+        "precentage": 0,
+        "name": "home",
+        "title": "نشاط"
+      },
+      {
+        "numOfQuestion": 0,
+        "correctCounter": 0,
+        "wrongCounter": 0,
+        "status": false,
+        "precentage": 0,
+        "name": "quiz"
+      }
+    ],
+    "questions": [
+     
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "صَوِّبِ الْخَطَأَ",
+        "question": "",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/q3.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["فِي «أَقَامَ عَمِّي فِي السُّعُودِيَّةِ» الْفِعْلُ مُتَعَدٍّ."],
+        "lastparag": "",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["لَازِمٌ"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          }
+        ]
+      },
+  
+
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "أَكْمِلْ",
+        "question": "",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/q3.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["اتَّسَمَتْ شَخْصِيَّةُ أَحْمَدَ مَنْسِي بِالجِدِّيَّةِ وَالاِلْتِزَامِ وَ "],
+        "lastparag": "",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["التواضع"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          }
+        ]
+      },
+      
+      
+
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+        "question": "",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/q3.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["وُلِد د. مصطفى السيد عام "],
+        
+        "popup": [],
+        "popupListen" :"path to sound passage",
+
+        "lastparag": "",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["1933م"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          }
+        ]
+      },
+      
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "اقْرَأْ ثُمَّ أَجِبْ",
+        "question": "",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/q3.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["قامت شجر الدر بدور محوري في حماية مصر من خطر "],
+        
+        "popup": ["الِانْتِمَاءُ وَالْوَفَاءُ لِلْوَطَنِ لَيْسَتْ مُجَرَّدَ كَلِمَاتٍ تُقَالُ، بَلْ مَوَاقِفُ وَتَضْحِيَاتٌ، وَقَدْ تَجَلَّتْ هَذِهِ الْمَعَانِي فِي سِيرَةِ الشَّهِيدِ الْبَطَلِ أَحْمَد مَنْسِي، الَّذِي اخْتَارَ أَنْ يَعِيشَ بَطَلًا، وَيَمُوتَ شَهِيدًا فِي مَيْدَانِ الشَّرَفِ. وُلِدَ الْعَقِيدُ أَرْكَانُ حَرْبٍ أَحْمَد صَابِر مَنْسِي فِي الرَّابِعِ مِنْ أُكْتُوبَرَ عَامَ 1978م بِقَرْيَةِ بَنِي قُرَيْشٍ، بِمَرْكَزِ مِنْيَا الْقَمْحِ، بِمُحَافَظَةِ الشَّرْقِيَّةِ، وَنَشَأَ فِي أُسْرَةٍ غَرَسَتْ فِيهِ الْقِيَمَ الدِّينِيَّةَ السَّمْحَةَ وَحُبَّ الْوَطَنِ، وَعَلَّمَتْهُ كَيْفَ يَكُونُ إِنْسَانًا قَبْلَ أَنْ يَكُونَ جُنْدِيًّا."],
+        "popupListen" :"",
+
+        "lastparag": "",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["جيوش الصليبيين"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          }
+        ]
+      },
+
+      {
+        "id": 4,
+        "active": false,
+        "numberOfTrial": 0,
+        "questionlevel": "",
+        "questionType": "text",
+        "answersType": "text",
+        "startTime": "",
+        "endTime": "",
+        "type": "input",
+        "title": "أجب عما يأتي",
+        "question": "",
+        "img": "",
+        "soundQ": "",
+        "soundT": "./audio/q3.mp3",
+        "counterCorrectQuestion": 0,
+        "numberInputs": 0,
+        "parags": ["مَا الفِكْرَةُ الرَّئِيسَةُ لِلنَّصِّ؟ "],
+        
+        "popup": [],
+        "popupListen" :"",
+
+        "lastparag": "",
+        "inputs": [
+          {
+            "numOfInput": 1,
+            "valid": ["مكانة مصر الحضارية والعلمية من خلال تجربة زويل"],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          },
+          {
+            "numOfInput": 0,
+            "valid": [""],
+            "comma": ""
+          }
+        ]
+      }
+    ]
+  }
+]

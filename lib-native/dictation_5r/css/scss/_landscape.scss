@@ -1,0 +1,325 @@
+@import 'var';
+
+@media screen and (orientation:landscape) {
+
+    p,
+    div,
+    h1,
+    span,
+    li,
+    input {
+        font-size: 2.5vh !important;
+    }
+
+    body {
+
+
+        #bg_body {
+            background-image: $var_background_body_landscape !important;
+
+            .first_bg {
+                background-image: $var_background_first_land_body !important;
+                width           : 70% !important;
+            }
+
+            #Dictation {
+                height: 100% !important;
+                width : 155vh !important;
+
+                .isSuccess {
+                    width : 100%;
+                    height: 100%;
+                }
+
+                #infoScreen {
+                    width          : 100% !important;
+                    opacity        : 0 !important;
+                    display        : flex;
+                    justify-content: center;
+                    align-items    : center;
+
+                    &.disabled {
+                        opacity: 1 !important;
+                    }
+
+                    #infoNext {
+                        position: initial !important;
+                        width   : 8vh !important;
+                        height  : 6vh !important;
+                        margin  : 0 !important;
+                    }
+
+                    .timer {
+                        right : 20% !important;
+                        bottom: 25% !important;
+                    }
+
+                    #timeTest {
+                        padding-top  : 0 !important;
+                        padding-right: 0 !important;
+                        padding-left : 0 !important;
+                        position     : initial !important;
+                        width        : 40% !important;
+                        margin       : 0 7% 0 7%;
+
+                        &.show_info_content {
+                            opacity      : 1 !important;
+                            display      : block !important;
+                            position     : initial !important;
+                            right        : 0 !important;
+                            top          : 0 !important;
+                            width        : 50% !important;
+                            height       : 50% !important;
+                            padding-top  : 0 !important;
+                            padding-right: 0 !important;
+                        }
+                    }
+
+                    #content_active {
+                        display        : flex !important;
+                        justify-content: center !important;
+                        align-items    : center !important;
+                        position       : relative !important;
+                        width          : 100% !important;
+                        height         : 50% !important;
+                        flex-direction : column;
+
+                        .next_time {
+                            width          : 50%;
+                            display        : flex;
+                            justify-content: space-between;
+                            align-items    : center;
+                            z-index        : 1;
+                            margin-top     : 5% !important;
+
+                            #timing {
+                                position: inherit !important;
+                            }
+                        }
+                    }
+                }
+
+                .info {
+                    &.show_info_content {
+                        opacity      : 1 !important;
+                        display      : block !important;
+                        position     : initial !important;
+                        right        : 0 !important;
+                        top          : 0 !important;
+                        width        : 50% !important;
+                        height       : 50% !important;
+                        padding-top  : 0 !important;
+                        padding-right: 0 !important;
+
+                        li {
+                            margin-right: 10% !important;
+                        }
+                    }
+                }
+
+                #answer_player {
+                    #keybord {
+                        justify-content: initial !important;
+                        width          : 90vh !important;
+                        height         : auto !important;
+
+                        #t_key {
+                            width      : 100% !important;
+                            padding-top: 0% !important;
+                            margin     : 0 0 2% 0 !important;
+                            height     : 7vh !important;
+                        }
+
+                        bottom: 2vw !important;
+
+                        #titleKey {
+                            height          : 7vh !important;
+                            width           : 75vh !important;
+                            background-image: $var_background_land_title_key;
+
+                            p {
+                                height: auto !important;
+                            }
+
+                            margin-right: 3vh !important;
+                            padding     : 0 !important;
+                        }
+
+                        .sound_repeat {
+                            width : 4vh !important;
+                            height: 4vh !important;
+                            left  : 1.5vh !important;
+                            top   : 2vh !important;
+                        }
+
+                        ul {
+                            li {
+                                width : 10vh !important;
+                                height: 4vh !important;
+
+                                &#letter_key_5_2,
+                                &#letter_key_5_0 {
+                                    width: 13vh !important;
+                                }
+
+                                &#letter_key_5_1 {
+                                    width: 40vh !important;
+                                }
+
+                                &#letter_key_5_0 {
+                                    background-image: $var_background_remove_land_click;
+                                }
+                            }
+                        }
+
+                        #keybord_control {
+                            opacity    : 0;
+                            margin-left: 0vw !important;
+                            margin-top : 0 !important;
+                            height     : auto !important;
+
+                            ul {
+                                // width: 86% !important;
+                                overflow : hidden !important;
+                                display  : flex !important;
+                                flex-wrap: wrap !important;
+                                margin   : 0 auto !important;
+                                padding  : 0 !important;
+
+                                .center_key19,
+                                .center_key10 {
+                                    margin-right: 0vw !important;
+                                }
+
+                                .center_key27,
+                                .center_key18 {
+                                    margin-left: 0 !important;
+                                }
+
+                                .center_key32,
+                                .center_key24,
+                                .center_key16 {
+                                    margin-left: 5vh !important;
+                                }
+
+                                .center_key17,
+                                .center_key25,
+                                .center_key9 {
+                                    margin-right: 5vh !important;
+                                }
+                            }
+
+                            &.none {
+                                opacity   : 0 !important;
+                                min-height: 25vh !important;
+                            }
+                        }
+
+                        #endScreen {
+                            height: 30vh !important;
+                            bottom: 7vh !important;
+
+                            .title {
+                                margin   : 1vw !important;
+                                font-size: 3.5vh !important;
+                            }
+
+                            .ruselt {
+                                .rus {
+                                    width    : 15vh !important;
+                                    height   : 11vh !important;
+                                    font-size: 4vh !important;
+                                }
+
+                                .slash {
+                                    width : 4vh !important;
+                                    height: 14vh !important;
+                                    margin: 2vh;
+                                }
+                            }
+
+                            .Buttons {
+                                margin-top: 0vw !important;
+
+                                .correctText {
+                                    width  : 5vw !important;
+                                    height : 5vw !important;
+                                    margin : 1vw 0 0 2vw !important;
+                                    display: none;
+                                }
+
+                                .Reload {
+                                    width : 5vw !important;
+                                    height: 5vw !important;
+                                    margin: 2vw !important;
+                                }
+                            }
+
+                            #evaluation_progress {
+                                justify-content: space-around !important;
+                                height         : 27vh !important;
+
+                                &.active {
+                                    padding-top: 1vh;
+                                }
+
+                                .evaluation_text {
+                                    width : 52vh !important;
+                                    height: 10vh !important;
+                                    margin: 0 !important;
+                                }
+
+                                #progressbar {
+                                    width : 60% !important;
+                                    margin: 0 !important;
+
+                                    .number_of_true {
+                                        width : 20vh !important;
+                                        height: 8vh !important;
+
+
+
+                                        p {
+                                            font-size: 3vw !important;
+                                        }
+
+                                        span {
+                                            margin: .5vw !important;
+                                        }
+                                    }
+
+                                    svg {
+                                        height: 9vh !important;
+                                    }
+
+
+                                }
+                            }
+                        }
+                    }
+
+                    .show_screen {
+                        width        : 62% !important;
+                        padding      : 4vh 0 0 0 !important;
+                        margin-bottom: 1.5vh;
+                        height       : 60vh !important;
+                    }
+                }
+
+                #finshed {
+                    &.active {
+                        .Buttons {
+                            bottom: 0vw !important;
+                            right : 42vw !important;
+
+                            #finshed_but {
+                                width : 10vw !important;
+                                height: 10vw !important;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

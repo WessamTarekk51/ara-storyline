@@ -1,0 +1,104 @@
+body {
+    $var_loop_start_1: 1;
+    $var_loop_end: 100;
+    @for $i from $var_loop_start_1 through $var_loop_end {
+        .show_screen #click_letter_#{$i - 1} {
+            position: relative;
+            height: 7vw!important;
+            display: flex;
+            justify-content: center;
+            @media screen and (orientation: landscape) {
+                height: 4vw!important;
+                min-width: 10vh;
+                margin-bottom: -1.5vw;
+            }
+            .box_hint {
+                display: none;
+            }
+            &.Right {
+                pointer-events: none;
+                p {
+                    font-size: 4vw;
+                    color: #4a5f6a !important;
+                }
+            }
+            &.Wrong {
+                p {
+                    font-size: 4vw;
+                    color: red;
+                }
+            }
+            &.show_hint {
+                .box_hint {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                &.none {
+                    .box_hint {
+                        display: inline-block !important;
+                    }
+                }
+            }
+            p {
+                pointer-events: none;
+            }
+            .box_hint {
+                position: absolute;
+                top: -7vw;
+                left: 0;
+                width: 100%;
+                .speech-bubble {
+                    position: relative;
+                    background: white;
+                    border-radius: .4em;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    min-width: auto;
+                    display: inline-block !important;
+                    p {
+                        display: inline-block !important;
+                        color: #00AC00;
+                    }
+                }
+                .speech-bubble:after {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    left: 50%;
+                    width: 0;
+                    height: 0;
+                    border: 20px solid transparent;
+                    border-top-color: white;
+                    border-bottom: 0;
+                    border-right: 0;
+                    margin-left: -10px;
+                    margin-bottom: -20px;
+                    z-index: -1;
+                }
+            }
+            &.Right {
+                color: black;
+                pointer-events: none;
+            }
+        }
+        @media screen and (orientation:landscape) {
+            .show_screen #click_letter_#{$i - 1} {
+                &.show_hint {
+                    .box_hint {
+                        top: -3vw!important;
+                        .speech-bubble {
+                            height: 6vh !important;
+                            &:after {
+                                margin-left: -2vh!important;
+                                margin-bottom: -2vh!important;
+                                z-index: -1;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

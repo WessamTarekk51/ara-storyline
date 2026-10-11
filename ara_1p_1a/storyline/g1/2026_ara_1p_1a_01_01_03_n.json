@@ -1,0 +1,3001 @@
+[{
+  "counterCorrect": 0,
+  "LOcorrectcounter": 0,
+  "loTargets": null,
+  "numberOfquestion": 0,
+  "numberOfTotalQuestion": 0,
+  "cmi": {
+    "completion_status": "unknown",
+    "success_status": "unknown",
+    "total_time": 0,
+    "score": {
+      "raw": 0,
+      "min": 0,
+      "max": 100,
+      "scaled": 0
+    }
+  },
+  "studentProgress": {
+    "infoDetails": {
+      "info": {
+        "id": null,
+        "status": null,
+        "timestamp": null
+      }
+    },
+    "videos": {
+      "video": {
+        "duration": null,
+        "percent": null,
+        "status": null,
+        "time": null
+      }
+    }
+  },
+  "lang": null,
+  "feedBackTxt": null,
+  "feedBackDes": null,
+  "id": "2026_ara_1p_1a_01_01_03_n",
+  "subjectId": "",
+  "conceptId": "",
+  "unitId": "",
+  "lessonId": "",
+  "title": "",
+  "keywords": "",
+  "learningObjectives": "",
+  "BloomLevels": [],
+  "type": "",
+  "loDegree": null,
+  "UserDegree": 0,
+  "SubType": "input",
+  "startTime": "",
+  "endTime": "",
+  "Educational_stage": "5r_1a",
+  "navgations": [{
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "home",
+      "title": "نشاط"
+    },
+    {
+      "numOfQuestion": 0,
+      "correctCounter": 0,
+      "wrongCounter": 0,
+      "status": false,
+      "precentage": 0,
+      "name": "quiz"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْقِيمَةُ الْأَبْرَزُ فِي تَجْرِبَةِ أَحْمَد زُوَيْلٍ هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الِاجْتِهَادُ فِي طَلَبِ الْعِلْمِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْخَوْفُ مِنَ الْمُسْتَقْبَلِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "التَّفَاخُرُ بِالْجَائِزَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الِاعْتِمادُ عَلَى الآخَرِينَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "اتَّصَفَ مَوْقِفُ أَحْمَد زُوَيل مِنْ وَطَنِهِ بِأَنَّهُ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "يَتَنَكَّرُ لِوَطَنِهِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَنْتَقِدُ تَارِيخَهَا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَتَجَاهَلُ جُذُورَهُ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "يَفْخَرُ بِمِصْرَ وَحَضَارَتِهَا",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْأَمْرُ الَّذِي يُحَفِّزُ الشَّبَابَ وَفْقَ النَّصِّ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الْبَحْثُ عَنِ الشُّهْرَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْمُنَافَسَةُ مَعَ الْأَصْدِقَاءِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْقُدْوَةُ النَّاجِحَةُ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الْخَوْفُ مِنَ الْمُسْتَقْبَلِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الدَّرْسُ الْمُسْتَفَادُ مِنْ تَجْرِبَةِ أَحْمَد زُوَيل هُوَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الْعِلْمُ لِلشُّهْرَةِ فَقَطْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْعِلْمُ وَالْعَمَلُ طَرِيقُ التَّقَدُّمِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "النَّجَاحُ بِلَا جُهْدٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْمَاضِي بِلَا فَائِدَةٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "تَتَمَثَّلُ الْعَلَاقَةُ بَيْنَ النَّجَاحِ وَالِانْتِمَاءِ فِي أَنَّ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "النَّجَاحَ الْحَقِيقِيَّ يَخْدُمُ الْوَطَنَ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "لَا عَلَاقَةَ بَيْنَهُمَا",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "النَّجَاحَ يُبْعِدُ عَنِ الْوَطَنِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الِانْتِمَاءَ يُؤَخِّرُ النَّجَاحَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "اسْتَحَقَّ أَحْمَد زُوَيْل جَائِزَةَ نُوبِلْ بِسَبَبِ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "شُهْرَتِهِ الْإِعْلَامِيَّةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "امْتِلَاكِه الثَّرْوَةَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "سَفَرِهِ الْمُسْتَمِرِّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِنْجَازِهِ الْعِلْمِيِّ الْجَوْهَرِيِّ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "يَتَمَثَّلُ أَثَرُ الْجَائِزَةِ فِي الْأَجْيَالِ فِي أَنَّهَا .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "تَجْعَلُهُمْ مُتَرَدِّدِينَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَشْغَلُهُمْ بِالْمَظَاهِرِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تُحَفِّزُهُمْ عَلَى السَّعْيِ لِلْعِلْمِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "تَدْفَعُهُمْ لِتَرْكِ الدِّرَاسَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْمَوْقِفُ النَّقْدِيُّ السَّلِيمُ مِنَ النَّصِّ هُوَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الِاعْتِرَاضُ عَلَى الِاجْتِهَادِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْإِشَادَةُ بِرَبْطِ الْعِلْمِ بِالْوَطَنِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "رَفْضُ الْعِلْمِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "إِنْكَارُ الْحَضَارَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "السُّلُوكُ الْمُوَافِقُ لِلنَّصِّ هُوَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "الْمُثَابَرَةُ فِي التَّعَلُّمِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "إِهْمَالُ الْوَاجِبِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَقْلِيدُ الْآخَرِينَ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "التَّفَاخُرُ بِالْجَوَائِزِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "الْعِبَارَةُ الَّتِي تَدُلُّ عَلَى التَّفَاؤُلِ هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "بَدَأَ السِّبَاقُ مَعَ الزَّمَنِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "انْتَهَى زَمَنُ الْإِنْجَازِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "حَقًّا إِنَّهَا عَبْقَرِيَّةُ الْعِلْمِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "عِنْدِي أَمَلٌ كَبِيرٌ فِي الْأَجْيَالِ الشَّابَّةِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "يَجْمَعُ أَحْمَد زُوَيْل بِقُدَمَاءِ الْمِصْرِيِّينَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "اقْتِنَاءُ الْجَوَائِزِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْبَحْثُ وَالِابْتِكَارُ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الشُّهْرَةُ فَقَطْ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "نِظَامُ الْفِمْتُوثَانِيَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "يَخْدُمُ الطَّالِبُ وَطَنَهُ مِنْ خِلَالِ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "التَّعَلُّمُ وَالْإِتْقَانُ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "الِاعْتِمَادِ عَلَى الْكِبَارِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "التَّفَاخُرِ بِالْحَضَارَةِ الْقَدِيمَةِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "الْبَحْثُ عَنِ الْجَوَائِزِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "أَفْضَلُ تَلْخِيصٍ لِلنَّصِّ هُوَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "قِصَّةٌ عَنْ رِحْلَةٍ تَرْفِيهِيَّةٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "وَصْفُ جَائِزَةٍ بِلَا دَلَالَةٍ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "حَدِيثٌ عَنِ الْمَاضِي",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "عَالِمٌ مِصْرِيٌّ يَرْبِطُ الْإِنْجَازَ بِالْهُوِيَّةِ وَالْأَمَلِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اخْتَرِ الْإِجَابَةَ الصَّحِيحَةَ",
+      "question": "النَّتِيجَةُ الْمُتَوَقَّعَةُ مِنَ الِاقْتِدَاءِ بِأَحْمَد زُوَيْل هِيَ .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/03.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "السَّفَرُ لِلْخَارِجِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَرَاجُعُ الطُّمُوحِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "تَقَدُّمٌ عِلْمِيٌّ وَخِدْمَةُ الْمُجْتَمَعِ",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "ضَعْفُ التَّعْلِيمِ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْقِيمَةُ الْأَبْرَزُ فِي تَجْرِبَةِ زُوَيْل: الِاجْتِهَادُ فِي طَلَبِ الْعِلْمِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "مَوْقِفُ زُوَيْل مِنْ وَطَنِهِ: يَتَنَكَّرُ لِوَطَنِهِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الَّذِي يُحَفِّزُ الشَّبَابَ وَفْقَ النَّصِّ: الْقُدْوَةُ الْعِلْمِيَّةُ النَّاجِحَةُ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الدَّرْسُ الْمُسْتَفَادُ مِنْ تَجْرِبَةِ زُوَيْل: النَّجَاحُ بِلَا جُهْدٍ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْعَلَاقَةُ بَيْنَ النَّجَاحِ وَالِانْتِمَاءِ: النَّجَاحُ الْحَقِيقِيُّ يَخْدُمُ الْوَطَنَ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "سَبَبُ اسْتِحْقَاقِ زُوَيْل نُوبِل: شُهْرَتُهُ الْإِعْلَامِيَّةُ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "أَثَرُ الْجَائِزَةِ فِي الْأَجْيَالِ: تَحْفِزُهُمْ إِلَى السَّعْيِ لِلْعِلْمِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الْمَوْقِفُ النَّقْدِيُّ السَّلِيمُ مِنَ النَّصِّ: رَفْضُ الْعِلْمِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "السُّلُوكُ الْمُوَافِقُ لِلنَّصِّ: الْمُثَابَرَةُ عَلَى التَّعَلُّمِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "يُؤَكِّدُ النَّصُّ أَنَّ مِصْرَ حَصَلَتْ عَلَى الْعَدِيدِ مِنْ جَوَائِزِ نُوبِل فِي مَجَالَاتِ الْعِلْمِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "الَّذِي يَجْمَعُ زُوَيْل بِقُدَمَاءِ الْمِصْرِيِّينَ: الشُّهْرَةُ فَقَطْ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": false,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": true,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "لِمِصْرَ إِسْهَامَاتٌ فِي حِسَابَاتِ الزَّمَنِ مُنْذُ آلَافِ السِّنِينَ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "يُشِيرُ تَصْمِيمُ مِيدَالِيَّةِ جَائِزَةِ نُوبِل إِلَى الْعَلَاقَةِ بَيْنَ الْعِلْمِ وَالطَّبِيعَةِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "trueFalse",
+      "title": "حَدِّدْ مَا إِذَا كَانَتِ الْعِبَارَةُ صَحِيحَةً أَمْ خَطَأً",
+      "question": "النَّتِيجَةُ الْمُتَوَقَّعَةُ مِنَ الِاقْتِدَاءِ بِزُوَيْل: التَّقَدُّمُ الْعِلْمِيُّ وَخِدْمَةُ الْمُجْتَمَعِ.",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/01.mp3",
+      "popup": [],
+      "popupListen": "",
+      "subTitleSound": "",
+      "MaxSizeFontTrueFalse": true,
+      "answers": [
+        {
+          "toChoose": "✓",
+          "answer": true,
+          "check": false
+        },
+        {
+          "toChoose": "✗",
+          "answer": false,
+          "check": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا القِيمَةُ الأَبْرَزُ فِي تَجْرِبَةِ زُوَيْلٍ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الاجتهاد في طلب العلم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا مَوْقِفُ زُوَيْلٍ مِنْ وَطَنِهِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "يفخر بمصر وحضارتها"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا الَّذِي يُحَفِّزُ الشَّبَابَ وَفْقَ النَّصِّ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "القدوة العلمية الناجحة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا الدَّرْسُ المُسْتَفَادُ مِنْ تَجْرِبَةِ زُوَيْل؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "العلم والعمل طريق التقدم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العَلَاقَةُ بَيْنَ النَّجَاحِ وَالانْتِمَاءِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "النجاح الحقيقي يخدم الوطن"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا سَبَبُ اسْتِحْقَاقِ زُوَيْل نُوبِلَ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "إنجازه العلمي الجوهري"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا أَثَرُ الجَائِزَةِ فِي الأَجْيَالِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تحفزهم على السعي للعلم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا المَوْقِفُ النَّقْدِيُّ السَّلِيمُ مِنَ النَّصِّ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الإشادة بربط العلم بالوطن"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَتَى وَأَيْنَ بَدَأَتِ التَّقَاوِيمُ الفَلَكِيَّةُ عَلَى ضَوْءِ مَا قَرَأْتَ فِي النَّصِّ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "بدأت منذ ستة آلاف عام مضت في أرض مصر"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا العِبَارَةُ الَّتِي تَدُلُّ عَلَى التَّفَاؤُلِ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عندي أمل كبير في الأجيال الشابة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا الَّذِي يَجْمَعُ زُوَيْل بِقُدَمَاءِ المِصْرِيِّينَ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "البحث والابتكار"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَاذَا يَحْدُثُ لَوْ عُرِفَتْ جَائِزَةُ نُوبِلَ مُنْذُ سِتَّةِ آلَافِ سَنَةٍ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "لكانت مصر قد حصلت على جوائز نوبل في العديد من مجالات العلم."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا أَفْضَلُ تَلْخِيصٍ لِلنَّصِّ؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عالم مصري يربط الإنجاز بالهوية والأمل."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَجِبْ عَمَّا يَأْتِي",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/12.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَا النَّتِيجَةُ المُتَوَقَّعَةُ مِنَ الاِقْتِدَاءِ بِزُوَيْل؟"
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تقدم علمي وخدمة المجتمع."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "القِيمَةُ الأَبْرَزُ فِي تَجْرِبَةِ زُوَيْلٍ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الاجتهاد في طلب العلم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "مَوْقِفُ زُوَيْلٍ مِنْ وَطَنِهِ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "يفخر بمصر وحضارتها"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يُحَفِّزُ الشَّبَابَ وَفْقَ النَّصِّ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "القدوة العلمية الناجحة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "الدَّرْسُ المُسْتَفَادُ مِنْ تَجْرِبَةِ زُوَيْلٍ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "العلم والعمل طريق التقدم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العَلَاقَةُ بَيْنَ النَّجَاحِ وَالاِنْتِمَاءِ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "النجاح الحقيقي يخدم الوطن"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "سَبَبُ اسْتِحْقَاقِ زُوَيْلٍ نُوبِلَ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "إنجازه العلمي الجوهري"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَثَرُ الجَائِزَةِ فِي الأَجْيَالِ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تحفزهم على السعي للعلم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "المَوْقِفُ النَّقْدِيُّ السَّلِيمُ مِنَ النَّصِّ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الإشادة بربط العلم بالوطن"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "السُّلُوكُ المِوَافِقُ لِلنَّصِّ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "المثابرة في التعلم"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "العِبَارَةُ الَّتِي تَدُلُّ عَلَى التَّفَاؤُلِ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عندي أمل كبير في الأجيال الشابة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يَجْمَعُ أَحْمَدَ زُوَيْلٍ بِقُدَمَاءِ المِصْرِيِّينَ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "البحث والابتكار"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "يَخْدُمُ الطَّالِبُ وَطَنَهُ مِنْ خِلَالِ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "التعلم والإتقان والمشاركة"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "أَفْضَلُ تَلْخِيصٍ لِلنَّصِّ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "عالم مصري يربط الإنجاز بالهوية والأمل"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "أَكْمِلْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/10.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "النَّتِيجَةُ المُتَوَقَّعَةُ مِنَ الاِقْتِدَاءِ بِزُوَيْلٍ ..............."
+      ],
+      "popup": [],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "تقدم علمي وخدمة المجتمع"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "مرادف «أرفع» في وصف قلادة العلوم الوطنية الأمريكية .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "popup": [
+        "الْأُسْتَاذُ الدُّكْتُورُ مُصْطَفَى السَّيِّدُ هُوَ عَالِمُ كِيمْيَاءٍ مِصْرِيٌّ شَهِيرٌ، وُلِدَ عَامَ 1933م فِي مُحَافَظَةِ الشَّرْقِيَّةِ، وَهُنَاكَ بَدَأَ تَعْلِيمَهُ، ثُمَّ تَخَرَّجَ فِي كُلِّيَّةِ الْعُلُومِ بِجَامِعَةِ عَيْنِ شَمْسٍ سَنَةَ 1953م، بَعْدَ ذَلِكَ سَافَرَ إِلَى أَمْرِيكَا لِيُكْمِلَ هُنَاكَ دِرَاسَتَهُ وَيُوَاصِلَ أَبْحَاثَهُ. وَيُعَدُّ د. مُصْطَفَى السَّيِّدُ أَوَّلَ عَالِمٍ مِصْرِيٍّ وَعَرَبِيٍّ يَحْصُلُ عَلَى قِلَادَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ، وَهِيَ أَرْفَعُ وِسَامٍ عِلْمِيٍّ فِي أَمْرِيكَا؛ وَذَلِكَ تَقْدِيرًا لِجُهُودِهِ فِي إِمْكَانِيَّةِ عِلَاجِ مَرَضِ السَّرَطَانِ بِاسْتِخْدَامِ ذَرَّاتِ الذَّهَبِ الدَّقِيقَةِ. وَبِسَبَبِ كَفَاءَتِهِ الْعِلْمِيَّةِ النَّادِرَةِ، تَمَّ تَعْيِينُهُ عُضْوًا فِي لَجْنَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ عَامَ 2014م. وَرَغْمَ إِقَامَتِهِ بَعِيدًا عَنْ أَرْضِ الْكِنَانَةِ، فَإِنَّهُ يَفْتَخِرُ دَائِمًا بِوَطَنِهِ، وَيَحْرِصُ دَائِمًا عَلَى تَشْجِيعِ الْبَاحِثِينَ الْمِصْرِيِّينَ الشَّبَابِ."
+      ],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "أعلى",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "أدق",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أقدم",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "أجمل",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "مضاد «شهير» في وصف د. مصطفى السيد .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "popup": [
+        "الْأُسْتَاذُ الدُّكْتُورُ مُصْطَفَى السَّيِّدُ هُوَ عَالِمُ كِيمْيَاءٍ مِصْرِيٌّ شَهِيرٌ، وُلِدَ عَامَ 1933م فِي مُحَافَظَةِ الشَّرْقِيَّةِ، وَهُنَاكَ بَدَأَ تَعْلِيمَهُ، ثُمَّ تَخَرَّجَ فِي كُلِّيَّةِ الْعُلُومِ بِجَامِعَةِ عَيْنِ شَمْسٍ سَنَةَ 1953م، بَعْدَ ذَلِكَ سَافَرَ إِلَى أَمْرِيكَا لِيُكْمِلَ هُنَاكَ دِرَاسَتَهُ وَيُوَاصِلَ أَبْحَاثَهُ. وَيُعَدُّ د. مُصْطَفَى السَّيِّدُ أَوَّلَ عَالِمٍ مِصْرِيٍّ وَعَرَبِيٍّ يَحْصُلُ عَلَى قِلَادَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ، وَهِيَ أَرْفَعُ وِسَامٍ عِلْمِيٍّ فِي أَمْرِيكَا؛ وَذَلِكَ تَقْدِيرًا لِجُهُودِهِ فِي إِمْكَانِيَّةِ عِلَاجِ مَرَضِ السَّرَطَانِ بِاسْتِخْدَامِ ذَرَّاتِ الذَّهَبِ الدَّقِيقَةِ. وَبِسَبَبِ كَفَاءَتِهِ الْعِلْمِيَّةِ النَّادِرَةِ، تَمَّ تَعْيِينُهُ عُضْوًا فِي لَجْنَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ عَامَ 2014م. وَرَغْمَ إِقَامَتِهِ بَعِيدًا عَنْ أَرْضِ الْكِنَانَةِ، فَإِنَّهُ يَفْتَخِرُ دَائِمًا بِوَطَنِهِ، وَيَحْرِصُ دَائِمًا عَلَى تَشْجِيعِ الْبَاحِثِينَ الْمِصْرِيِّينَ الشَّبَابِ."
+      ],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "مكروه",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مغمور",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "منسيّ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "مهمل",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "وُلِد د. مصطفى السيد عام ....."
+      ],
+      "popup": [
+        "الْأُسْتَاذُ الدُّكْتُورُ مُصْطَفَى السَّيِّدُ هُوَ عَالِمُ كِيمْيَاءٍ مِصْرِيٌّ شَهِيرٌ، وُلِدَ عَامَ 1933م فِي مُحَافَظَةِ الشَّرْقِيَّةِ، وَهُنَاكَ بَدَأَ تَعْلِيمَهُ، ثُمَّ تَخَرَّجَ فِي كُلِّيَّةِ الْعُلُومِ بِجَامِعَةِ عَيْنِ شَمْسٍ سَنَةَ 1953م، بَعْدَ ذَلِكَ سَافَرَ إِلَى أَمْرِيكَا لِيُكْمِلَ هُنَاكَ دِرَاسَتَهُ وَيُوَاصِلَ أَبْحَاثَهُ. وَيُعَدُّ د. مُصْطَفَى السَّيِّدُ أَوَّلَ عَالِمٍ مِصْرِيٍّ وَعَرَبِيٍّ يَحْصُلُ عَلَى قِلَادَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ، وَهِيَ أَرْفَعُ وِسَامٍ عِلْمِيٍّ فِي أَمْرِيكَا؛ وَذَلِكَ تَقْدِيرًا لِجُهُودِهِ فِي إِمْكَانِيَّةِ عِلَاجِ مَرَضِ السَّرَطَانِ بِاسْتِخْدَامِ ذَرَّاتِ الذَّهَبِ الدَّقِيقَةِ. وَبِسَبَبِ كَفَاءَتِهِ الْعِلْمِيَّةِ النَّادِرَةِ، تَمَّ تَعْيِينُهُ عُضْوًا فِي لَجْنَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ عَامَ 2014م. وَرَغْمَ إِقَامَتِهِ بَعِيدًا عَنْ أَرْضِ الْكِنَانَةِ، فَإِنَّهُ يَفْتَخِرُ دَائِمًا بِوَطَنِهِ، وَيَحْرِصُ دَائِمًا عَلَى تَشْجِيعِ الْبَاحِثِينَ الْمِصْرِيِّينَ الشَّبَابِ."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "1933م"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "استخدم د. مصطفى السيد ..... الدقيقة في علاج السرطان."
+      ],
+      "popup": [
+        "الْأُسْتَاذُ الدُّكْتُورُ مُصْطَفَى السَّيِّدُ هُوَ عَالِمُ كِيمْيَاءٍ مِصْرِيٌّ شَهِيرٌ، وُلِدَ عَامَ 1933م فِي مُحَافَظَةِ الشَّرْقِيَّةِ، وَهُنَاكَ بَدَأَ تَعْلِيمَهُ، ثُمَّ تَخَرَّجَ فِي كُلِّيَّةِ الْعُلُومِ بِجَامِعَةِ عَيْنِ شَمْسٍ سَنَةَ 1953م، بَعْدَ ذَلِكَ سَافَرَ إِلَى أَمْرِيكَا لِيُكْمِلَ هُنَاكَ دِرَاسَتَهُ وَيُوَاصِلَ أَبْحَاثَهُ. وَيُعَدُّ د. مُصْطَفَى السَّيِّدُ أَوَّلَ عَالِمٍ مِصْرِيٍّ وَعَرَبِيٍّ يَحْصُلُ عَلَى قِلَادَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ، وَهِيَ أَرْفَعُ وِسَامٍ عِلْمِيٍّ فِي أَمْرِيكَا؛ وَذَلِكَ تَقْدِيرًا لِجُهُودِهِ فِي إِمْكَانِيَّةِ عِلَاجِ مَرَضِ السَّرَطَانِ بِاسْتِخْدَامِ ذَرَّاتِ الذَّهَبِ الدَّقِيقَةِ. وَبِسَبَبِ كَفَاءَتِهِ الْعِلْمِيَّةِ النَّادِرَةِ، تَمَّ تَعْيِينُهُ عُضْوًا فِي لَجْنَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ عَامَ 2014م. وَرَغْمَ إِقَامَتِهِ بَعِيدًا عَنْ أَرْضِ الْكِنَانَةِ، فَإِنَّهُ يَفْتَخِرُ دَائِمًا بِوَطَنِهِ، وَيَحْرِصُ دَائِمًا عَلَى تَشْجِيعِ الْبَاحِثِينَ الْمِصْرِيِّينَ الشَّبَابِ."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "ذرات الذهب"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "اقترح عنوانًا للنص المسموع."
+      ],
+      "popup": [
+        "الْأُسْتَاذُ الدُّكْتُورُ مُصْطَفَى السَّيِّدُ هُوَ عَالِمُ كِيمْيَاءٍ مِصْرِيٌّ شَهِيرٌ، وُلِدَ عَامَ 1933م فِي مُحَافَظَةِ الشَّرْقِيَّةِ، وَهُنَاكَ بَدَأَ تَعْلِيمَهُ، ثُمَّ تَخَرَّجَ فِي كُلِّيَّةِ الْعُلُومِ بِجَامِعَةِ عَيْنِ شَمْسٍ سَنَةَ 1953م، بَعْدَ ذَلِكَ سَافَرَ إِلَى أَمْرِيكَا لِيُكْمِلَ هُنَاكَ دِرَاسَتَهُ وَيُوَاصِلَ أَبْحَاثَهُ. وَيُعَدُّ د. مُصْطَفَى السَّيِّدُ أَوَّلَ عَالِمٍ مِصْرِيٍّ وَعَرَبِيٍّ يَحْصُلُ عَلَى قِلَادَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ، وَهِيَ أَرْفَعُ وِسَامٍ عِلْمِيٍّ فِي أَمْرِيكَا؛ وَذَلِكَ تَقْدِيرًا لِجُهُودِهِ فِي إِمْكَانِيَّةِ عِلَاجِ مَرَضِ السَّرَطَانِ بِاسْتِخْدَامِ ذَرَّاتِ الذَّهَبِ الدَّقِيقَةِ. وَبِسَبَبِ كَفَاءَتِهِ الْعِلْمِيَّةِ النَّادِرَةِ، تَمَّ تَعْيِينُهُ عُضْوًا فِي لَجْنَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ عَامَ 2014م. وَرَغْمَ إِقَامَتِهِ بَعِيدًا عَنْ أَرْضِ الْكِنَانَةِ، فَإِنَّهُ يَفْتَخِرُ دَائِمًا بِوَطَنِهِ، وَيَحْرِصُ دَائِمًا عَلَى تَشْجِيعِ الْبَاحِثِينَ الْمِصْرِيِّينَ الشَّبَابِ."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "مصطفى السيد.. عالم مصري في خدمة الإنسانية"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "لماذا استحق د. مصطفى السيد التقدير العلمي الكبير في أمريكا؟"
+      ],
+      "popup": [
+        "الْأُسْتَاذُ الدُّكْتُورُ مُصْطَفَى السَّيِّدُ هُوَ عَالِمُ كِيمْيَاءٍ مِصْرِيٌّ شَهِيرٌ، وُلِدَ عَامَ 1933م فِي مُحَافَظَةِ الشَّرْقِيَّةِ، وَهُنَاكَ بَدَأَ تَعْلِيمَهُ، ثُمَّ تَخَرَّجَ فِي كُلِّيَّةِ الْعُلُومِ بِجَامِعَةِ عَيْنِ شَمْسٍ سَنَةَ 1953م، بَعْدَ ذَلِكَ سَافَرَ إِلَى أَمْرِيكَا لِيُكْمِلَ هُنَاكَ دِرَاسَتَهُ وَيُوَاصِلَ أَبْحَاثَهُ. وَيُعَدُّ د. مُصْطَفَى السَّيِّدُ أَوَّلَ عَالِمٍ مِصْرِيٍّ وَعَرَبِيٍّ يَحْصُلُ عَلَى قِلَادَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ، وَهِيَ أَرْفَعُ وِسَامٍ عِلْمِيٍّ فِي أَمْرِيكَا؛ وَذَلِكَ تَقْدِيرًا لِجُهُودِهِ فِي إِمْكَانِيَّةِ عِلَاجِ مَرَضِ السَّرَطَانِ بِاسْتِخْدَامِ ذَرَّاتِ الذَّهَبِ الدَّقِيقَةِ. وَبِسَبَبِ كَفَاءَتِهِ الْعِلْمِيَّةِ النَّادِرَةِ، تَمَّ تَعْيِينُهُ عُضْوًا فِي لَجْنَةِ الْعُلُومِ الْوَطَنِيَّةِ الْأَمْرِيكِيَّةِ عَامَ 2014م. وَرَغْمَ إِقَامَتِهِ بَعِيدًا عَنْ أَرْضِ الْكِنَانَةِ، فَإِنَّهُ يَفْتَخِرُ دَائِمًا بِوَطَنِهِ، وَيَحْرِصُ دَائِمًا عَلَى تَشْجِيعِ الْبَاحِثِينَ الْمِصْرِيِّينَ الشَّبَابِ."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "لجهوده العلمية المتميزة، ومنها أبحاثه في إمكانية علاج السرطان باستخدام ذرات الذهب الدقيقة."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "choose",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "معنى «نبغ» في وصف المصريين القدماء .....",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "subTitleSound": "",
+      "answers": [
+        {
+          "choose": "برع",
+          "select": false,
+          "answer": true,
+          "solve": false
+        },
+        {
+          "choose": "جزع",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "بدأ",
+          "select": false,
+          "answer": false,
+          "solve": false
+        },
+        {
+          "choose": "عرف",
+          "select": false,
+          "answer": false,
+          "solve": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "استخدم المصريون القدماء ..... في علاج الأمراض."
+      ],
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "الأعشاب"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "نجح المصريون القدماء في تحديد مواقع ..... و..... ."
+      ],
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "النجوم والكواكب"
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "دلل على تفوق المصريين القدماء في الفنون."
+      ],
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "برعوا في فنون النحت والرسم، وتركوا آثارًا تدهش العلماء والفنانين حتى اليوم."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "active": false,
+      "numberOfTrial": 0,
+      "questionlevel": "",
+      "questionType": "text",
+      "answersType": "text",
+      "startTime": "",
+      "endTime": "",
+      "type": "input",
+      "title": "اسْتَمِعْ، ثُمَّ أَجِبْ",
+      "question": "",
+      "img": "",
+      "soundQ": "",
+      "soundT": "./audio/09.mp3",
+      "counterCorrectQuestion": 0,
+      "numberInputs": 0,
+      "parags": [
+        "ما أثر إنجازات الحضارة المصرية القديمة في الحضارات الأخرى؟"
+      ],
+      "popup": [
+        "تُعَدُّ الْحَضَارَةُ الْمِصْرِيَّةُ الْقَدِيمَةُ مِنْ أَقْدَمِ وَأَعْظَمِ حَضَارَاتِ الْعَالَمِ، وَقَدْ نَبَغَ الْمِصْرِيُّونَ الْقُدَمَاءُ فِي مَجَالَاتٍ مُخْتَلِفَةٍ؛ فَبَرَعُوا فِي فُنُونِ النَّحْتِ وَالرَّسْمِ، وَتَرَكُوا آثَارًا مَا زَالَتْ تُدْهِشُ الْعُلَمَاءَ وَالْفَنَّانِينَ حَتَّى يَوْمِنَا هَذَا، كَمَا أَبْدَعُوا فِي مَجَالِ الطِّبِّ؛ فَاسْتَخْدَمُوا الْأَعْشَابَ فِي عِلَاجِ الْأَمْرَاضِ، وَكَانَتْ لَدَيْهِمْ مَعْرِفَةٌ وَاسِعَةٌ بِالْجِرَاحَةِ وَعِلَاجِ الْكُسُورِ. أَمَّا فِي مَجَالِ الْفَلَكِ، فَقَدْ نَجَحُوا فِي تَحْدِيدِ مَوَاقِعِ النُّجُومِ وَالْكَوَاكِبِ، كَمَا أَنَّهُمْ أَوَّلُ مَنْ قَسَّمُوا السَّنَةَ إِلَى 365 يَوْمًا. وَقَدْ كَانَتْ هَذِهِ الْإِنْجَازَاتُ مِنَ الْعَوَامِلِ الَّتِي أَسْهَمَتْ فِي تَطَوُّرِ الْعُلُومِ وَالْمَعَارِفِ لَدَى بَعْضِ الْحَضَارَاتِ الْأُخْرَى."
+      ],
+      "popupListen": "",
+      "lastparag": "",
+      "inputs": [
+        {
+          "numOfInput": 1,
+          "valid": [
+            "أسهمت في تطور العلوم والمعارف لدى بعض الحضارات الأخرى."
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        },
+        {
+          "numOfInput": 0,
+          "valid": [
+            ""
+          ],
+          "comma": ""
+        }
+      ]
+    }
+  ]
+}]
